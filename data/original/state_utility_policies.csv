@@ -1,0 +1,192 @@
+state,utility_name,respondent_id,securitization_policy,market_indexing_policy,revenue_decoupling,governor_party,legislation_majority_party,date_updated
+Alabama,Alabama Power Co.,2,None,No,No,Republican,Republican,11/20/21
+Alaska,Alaska Electric Light & Power Co.,3,None,No,No,Republican,Republican,11/20/21
+Illinois,The Allegheny Generating Co.,5,None,No,No,Democrat,Democrat,11/20/21
+Maryland,The Allegheny Generating Co.,5,None,No,No,Republican,Democrat,11/20/21
+Michigan,The Allegheny Generating Co.,5,Passed,No,No,Democrat,Republican,11/20/21
+New Jersey,The Allegheny Generating Co.,5,None,No,No,Democrat,Democrat,11/20/21
+Ohio,The Allegheny Generating Co.,5,None,No,No,Republican,Republican,11/20/21
+Pennsylvania,The Allegheny Generating Co.,5,None,No,No,Democrat,Republican,11/20/21
+Virginia,Appalachian Power Co.,6,None,Yes,No,Democrat,Democrat,11/20/21
+West Virginia,Appalachian Power Co.,6,None,No,No,Republican,Republican,11/20/21
+Arizona,Arizona Public Service Co.,7,None,No,No,Republican,Republican,11/20/21
+Arkansas,"Entergy Arkansas, Inc.",8,None,No,No,Republican,Republican,11/20/21
+Tennessee,"Entergy Arkansas, Inc.",8,None,No,No,Republican,Republican,11/20/21
+New Jersey,Atlantic City Electric Co.,9,None,No,No,Democrat,Democrat,11/20/21
+Maryland,Baltimore Gas & Electric Co.,10,None,No,Yes,Republican,Democrat,11/20/21
+Maine,Emera Maine,11,None,No,No,Democrat,Democrat,11/20/21
+Montana,"Black Hills Power, Inc.",12,Passed,No,No,Republican,Republican,11/20/21
+South Dakota,"Black Hills Power, Inc.",12,None,No,No,Republican,Republican,11/20/21
+Wyoming,"Black Hills Power, Inc.",12,None,No,No,Republican,Republican,11/20/21
+North Carolina,"Duke Energy Progress, LLC",17,Passed,No,No,Democrat,Republican,11/20/21
+South Carolina,"Duke Energy Progress, LLC",17,Introduced,No,No,Republican,Republican,11/20/21
+New York,Central Hudson Gas & Electric Co.,19,None,No,No,Democrat,Democrat,11/20/21
+Louisiana,Cleco Power LLC,22,Passed,No,No,Democrat,Republican,11/20/21
+Maine,Central Maine Power Co.,23,None,No,No,Democrat,Democrat,11/20/21
+Ohio,"Duke Energy Ohio, Inc.",27,None,No,No,Republican,Republican,11/20/21
+Ohio,The Cleveland Electric Illuminating Co.,30,None,No,No,Republican,Republican,11/20/21
+Illinois,Commonwealth Edison Co.,32,None,No,No  ,Democrat,Democrat,11/20/21
+New York,"Consolidated Edison Co. of New York, Inc.",36,None,No,No,Democrat,Democrat,11/20/21
+Connecticut,"Connecticut Light & Power Co., The",39,None,No,No,Democrat,Democrat,11/20/21
+Wisconsin,Consolidated Water Power Co.,40,Passed,No,No,Democrat,Republican,11/20/21
+Michigan,Consumers Energy Co.,41,Passed,No,No,Democrat,Republican,11/20/21
+Ohio,The Dayton Power & Light Co.,42,None,No,No,Republican,Republican,11/20/21
+Delaware,Delmarva Power & Light Co.,43,None,No,No,Democrat,Democrat,11/20/21
+Maryland,Delmarva Power & Light Co.,43,None,No,No,Republican,Democrat,11/20/21
+Michigan,DTE Electric Co.,44,Passed,No,No,Democrat,Republican,11/20/21
+North Carolina,"Duke Energy Carolinas, LLC",45,Passed,No,No,Democrat,Republican,11/20/21
+South Carolina,"Duke Energy Carolinas, LLC",45,Introduced,No,No,Republican,Republican,11/20/21
+Pennsylvania,Duquesne Light Co.,46,None,No,No,Democrat,Republican,11/20/21
+New Mexico,El Paso Electric Co.,49,Passed,No,No,Democrat,Democrat,11/20/21
+Texas,El Paso Electric Co.,49,None,No,No,Republican,Republican,11/20/21
+Arkansas,The Empire District Electric Co.,51,None,No,No,Republican,Republican,11/20/21
+Kansas,The Empire District Electric Co.,51,Introduced,No,No,Democrat,Republican,11/20/21
+Missouri,The Empire District Electric Co.,51,Passed,No,No,Republican,Republican,11/20/21
+Oklahoma,The Empire District Electric Co.,51,None,No,No,Republican,Republican,11/20/21
+Massachusetts,Fitchburg Gas & Electric Light Co.,54,None,No,No,Republican,Democrat,11/20/21
+Florida,"Duke Energy Florida, LLC",55,None,No,No,Republican,Republican,11/20/21
+Florida,Florida Power & Light Co.,56,None,No,No,Republican,Republican,11/20/21
+Georgia,Georgia Power Co.,57,None,No,No,Republican,Republican,11/20/21
+New Hampshire,Liberty Utilities (Granite State Electric) Corp.,59,None,No,No,Republican,Republican,11/20/21
+Vermont,Green Mountain Power Corp.,61,None,No,No,Republican,Democrat,11/20/21
+Florida,Gulf Power Co.,62,None,No,No,Republican,Republican,11/20/21
+Louisiana,"Entergy Gulf States Louisiana, L.L.C.",63,Passed,No,No,Democrat,Republican,11/20/21
+Hawaii,"Hawaiian Electric Co., Inc.",65,None,No,Yes,Democrat,Democrat,11/20/21
+Idaho,Idaho Power Co.,70,Passed,No,No,Republican,Republican,11/20/21
+Oregon,Idaho Power Co.,70,None,No,No,Democrat,Democrat,11/20/21
+Indiana,Indiana Michigan Power Co.,73,Introduced,No,No,Republican,Republican,11/20/21
+Michigan,Indiana Michigan Power Co.,73,Passed,No,No,Democrat,Republican,11/20/21
+Indiana,Indianapolis Power & Light Co.,74,Introduced,No,No,Republican,Republican,11/20/21
+New Jersey,Jersey Central Power & Light Co.,77,None,No,No,Democrat,Democrat,11/20/21
+Kansas,Evergy Metro,79,Introduced,No,No,Democrat,Republican,11/20/21
+Missouri,Evergy Metro,79,Passed,No,No,Republican,Republican,11/20/21
+Kansas,Kansas Gas & Electric Co.,80,Introduced,No,No,Democrat,Republican,11/20/21
+Kentucky,Kentucky Power Co.,81,None,No,No,Democrat,Republican,11/20/21
+Kentucky,Kentucky Utilities Co.,82,None,No,No,Democrat,Republican,11/20/21
+Tennessee,Kentucky Utilities Co.,82,None,No,No,Republican,Republican,11/20/21
+Virginia,Kentucky Utilities Co.,82,None,Yes,No,Democrat,Democrat,11/20/21
+Tennessee,Kingsport Power Co.,83,None,No,No,Republican,Republican,11/20/21
+South Carolina,Lockhart Power Co.,84,Introduced,No,No,Republican,Republican,11/20/21
+Kentucky,Louisville Gas & Electric Co.,88,None,No,No,Democrat,Republican,11/20/21
+Wisconsin,Madison Gas & Electric Co.,89,Passed,No,No,Democrat,Republican,11/20/21
+Massachusetts,Massachusetts Electric Co.,93,None,No,Yes,Republican,Democrat,11/20/21
+Hawaii,Maui Electric Co.,94,None,No,Yes,Democrat,Democrat,11/20/21
+Montana,"MDU Resources Group, Inc.",95,Passed,No,No,Republican,Republican,11/20/21
+North Dakota,"MDU Resources Group, Inc.",95,None,No,No,Republican,Republican,11/20/21
+South Dakota,"MDU Resources Group, Inc.",95,None,No,No,Republican,Republican,11/20/21
+Wyoming,"MDU Resources Group, Inc.",95,None,No,No,Republican,Republican,11/20/21
+Pennsylvania,Metropolitan Edison Co.,96,None,No,No,Democrat,Republican,11/20/21
+Minnesota,"ALLETE, Inc.",98,Introduced,No,No,Democrat,Divided,11/20/21
+Mississippi,Mississippi Power Co.,99,None,No,No,Republican,Republican,11/20/21
+Mississippi,"Entergy Mississippi, Inc.",100,None,No,No,Republican,Republican,11/20/21
+West Virginia,Monongahela Power Company,101,None,No,No,Republican,Republican,11/20/21
+Illinois,Mt. Carmel Public Utility Co,105,None,No,No,Democrat,Democrat,11/20/21
+Rhode Island,The Narragansett Electric Co.,107,None,No,No,Democrat,Democrat,11/20/21
+Nevada,Nevada Power Co.,108,None,Yes,No,Democrat,Democrat,11/20/21
+Louisiana,"Entergy New Orleans, Inc.",114,Passed,No,No,Democrat,Republican,11/20/21
+New York,New York State Electric & Gas Corp.,115,None,No,No,Democrat,Democrat,11/20/21
+New York,Niagara Mohawk Power Corp.,117,None,No,Yes,Democrat,Democrat,11/20/21
+Indiana,Northern Indiana Public Service Co.,119,Introduced,No,No,Republican,Republican,11/20/21
+Minnesota,Northern States Power Co. (Minnesota),120,Introduced,No,Yes,Democrat,Divided,11/20/21
+North Dakota,Northern States Power Co. (Minnesota),120,None,No,No,Republican,Republican,11/20/21
+South Dakota,Northern States Power Co. (Minnesota),120,None,No,No,Republican,Republican,11/20/21
+Michigan,Northern States Power Co. (Wisconsin),121,Passed,No,No,Democrat,Republican,11/20/21
+Wisconsin,Northern States Power Co. (Wisconsin),121,Passed,No,No,Democrat,Republican,11/20/21
+South Dakota,NorthWestern Corp.,122,None,No,No,Republican,Republican,11/20/21
+Minnesota,Northwestern Wisconsin Electric Co.,123,Introduced,No,No,Democrat,Divided,11/20/21
+Wisconsin,Northwestern Wisconsin Electric Co.,123,Passed,No,No,Democrat,Republican,11/20/21
+Ohio,Ohio Edison Co.,126,None,No,No,Republican,Republican,11/20/21
+Ohio,Ohio Power Co.,127,None,No,No,Republican,Republican,11/20/21
+Ohio,Ohio Valley Electric Corp.,128,None,No,No,Republican,Republican,11/20/21
+Arkansas,Oklahoma Gas & Electric Co.,130,None,No,No,Republican,Republican,11/20/21
+Oklahoma,Oklahoma Gas & Electric Co.,130,None,No,No,Republican,Republican,11/20/21
+New York,"Orange & Rockland Utilities, Inc",131,None,No,No,Democrat,Democrat,11/20/21
+Minnesota,Otter Tail Power Co.,132,Introduced,No,No,Democrat,Divided,11/20/21
+North Dakota,Otter Tail Power Co.,132,None,No,No,Republican,Republican,11/20/21
+South Dakota,Otter Tail Power Co.,132,None,No,No,Republican,Republican,11/20/21
+California,PG&E,133,None,No,Yes,Democrat,Democrat,11/20/21
+California,PacifiCorp,134,None,No,No,Democrat,Democrat,11/20/21
+Idaho,PacifiCorp,134,Passed,No,No,Republican,Republican,11/20/21
+Oregon,PacifiCorp,134,None,No,No,Democrat,Democrat,11/20/21
+Utah,PacifiCorp,134,Introduced,Yes,No,Republican,Republican,11/20/21
+Washington,PacifiCorp,134,None,No,No,Democrat,Democrat,11/20/21
+Wyoming,PacifiCorp,134,None,No,No,Republican,Republican,11/20/21
+Pennsylvania,PECO Energy Co.,135,None,No,No,Democrat,Republican,11/20/21
+New York,Pennsylvania Electric Co.,136,None,No,No,Democrat,Democrat,11/20/21
+Pennsylvania,Pennsylvania Electric Co.,136,None,No,No,Democrat,Republican,11/20/21
+Pennsylvania,Pennsylvania Power Co.,137,None,No,No,Democrat,Republican,11/20/21
+Pennsylvania,PPL Electric Utilities Corp.,138,None,No,No,Democrat,Republican,11/20/21
+Wisconsin,Pioneer Power & Light Co.,140,Passed,No,No,Democrat,Republican,11/20/21
+Oregon,Portland General Electric Co.,141,None,No,No,Democrat,Democrat,11/20/21
+Maryland,The Potomac Edison Co.,142,None,No,No,Republican,Democrat,11/20/21
+West Virginia,The Potomac Edison Co.,142,None,No,No,Republican,Republican,11/20/21
+Maryland,Potomac Electric Power Co.,143,None,No,No,Republican,Democrat,11/20/21
+Washington DC,Potomac Electric Power Co.,143,None,No,No,Democrat,Democrat,11/20/21
+Indiana,"Duke Energy Indiana, LLC",144,Introduced,No,No  ,Republican,Republican,11/20/21
+Colorado,Public Service Co. of Colorado,145,Passed,No,No,Democrat,Democrat,11/20/21
+New Hampshire,Public Service Co. of New Hampshire,146,None,No,No,Republican,Republican,11/20/21
+New Mexico,Public Service Co. of New Mexico,147,Passed,No,No,Democrat,Democrat,11/20/21
+Oklahoma,Public Service Co. of Oklahoma,148,None,No,No,Republican,Republican,11/20/21
+New Jersey,Public Service Electric & Gas Co.,149,None,No,No,Democrat,Democrat,11/20/21
+Washington,"Puget Sound Energy, Inc.",150,None,No,No,Democrat,Democrat,11/20/21
+New York,Rochester Gas & Electric Corp.,151,None,No,No,Democrat,Democrat,11/20/21
+New Jersey,Rockland Electric Co.,152,None,No,No,Democrat,Democrat,11/20/21
+California,San Diego Gas & Electric Co.,155,None,No,No,Democrat,Democrat,11/20/21
+Nevada,Sierra Pacific Power Co.,157,None,Yes,No,Democrat,Democrat,11/20/21
+South Carolina,South Carolina Electric & Gas Co.,159,Introduced,No,No,Republican,Republican,11/20/21
+California,Southern California Edison Co.,161,None,No,Yes,Democrat,Democrat,11/20/21
+Indiana,Southern Indiana Gas & Electric Co.,163,Introduced,No,No,Republican,Republican,11/20/21
+Arkansas,Southwestern Electric Power Co.,164,None,No,No,Republican,Republican,11/20/21
+Louisiana,Southwestern Electric Power Co.,164,Passed,No,No,Democrat,Republican,11/20/21
+Texas,Southwestern Electric Power Co.,164,None,No,No,Republican,Republican,11/20/21
+New Mexico,Southwestern Public Service Co.,166,Passed,No,No,Democrat,Democrat,11/20/21
+Texas,Southwestern Public Service Co.,166,None,No,No,Republican,Republican,11/20/21
+Wisconsin,"Superior Water, Light & Power Co.",167,Passed,No,No,Democrat,Republican,11/20/21
+Florida,Tampa Electric Co.,170,None,No,No,Republican,Republican,11/20/21
+Ohio,"Toledo Edison Co., The",175,None,No,No,Republican,Republican,11/20/21
+Arizona,Tucson Electric Power Co.,176,None,No,No,Republican,Republican,11/20/21
+Missouri,Ameren Missouri,177,Passed,No,No,Republican,Republican,11/20/21
+Connecticut,The United Illuminating Co.,179,None,No,No,Democrat,Democrat,11/20/21
+Michigan,Upper Peninsula Power Co.,181,Passed,No,No,Democrat,Republican,11/20/21
+North Carolina,Dominion Energy Virginia,186,Passed,No,No,Democrat,Republican,11/20/21
+Virginia,Dominion Energy Virginia,186,None,Yes,No,Democrat,Democrat,11/20/21
+Idaho,Avista Corp.,187,Passed,No,No,Republican,Republican,11/20/21
+Montana,Avista Corp.,187,Passed,No,No,Republican,Republican,11/20/21
+Washington,Avista Corp.,187,None,No,No,Democrat,Democrat,11/20/21
+Pennsylvania,WEST PENN POWER COMPANY,188,None,No,No,Democrat,Republican,11/20/21
+Kansas,Evergy Kansas Central,191,Introduced,No,No,Democrat,Republican,11/20/21
+West Virginia,Wheeling Power Co.,192,None,No,No,Republican,Republican,11/20/21
+Michigan,Wisconsin Electric Power Co.,193,Passed,No,No,Democrat,Republican,11/20/21
+Wisconsin,Wisconsin Electric Power Co.,193,Passed,No,No,Democrat,Republican,11/20/21
+Wisconsin,Wisconsin Power & Light Co.,194,Passed,No,No,Democrat,Republican,11/20/21
+Wisconsin,Wisconsin Public Service Corp.,195,Passed,No,No,Democrat,Republican,11/20/21
+Alaska,"Chugach Electric Association, Inc.",202,None,No,No,Republican,Republican,11/20/21
+Wisconsin,Oconto Electric Cooperative,205,Passed,No,No,Democrat,Republican,11/20/21
+Illinois,MidAmerican Energy Co.,210,None,No,No  ,Democrat,Democrat,11/20/21
+Iowa,MidAmerican Energy Co.,210,None,No,No  ,Republican,Republican,11/20/21
+South Dakota,MidAmerican Energy Co.,210,None,No,No,Republican,Republican,11/20/21
+Kansas,Midwest Energy Inc.,213,Introduced,No,No,Democrat,Republican,11/20/21
+Vermont,Village of Morrisville Water & Light Department,224,None,No,No,Republican,Democrat,11/20/21
+Colorado,Deseret Generation & Transmission Cooperative,226,Passed,No,No,Democrat,Democrat,11/20/21
+Vermont,"Washington Electric Cooperative, Inc.",246,None,No,No,Republican,Democrat,11/20/21
+Iowa,Interstate Power & Light Co.,281,None,No,No,Republican,Republican,11/20/21
+Arizona,"UNS Electric, Inc.",288,None,No,No,Republican,Republican,11/20/21
+New Hampshire,"Unitil Energy Systems, Inc.",290,None,No,No,Republican,Republican,11/20/21
+Hawaii,"Hawaii Electric Light Co., Inc.",300,None,No,Yes,Democrat,Democrat,11/20/21
+Massachusetts,NSTAR Electric Co.,309,None,No,No,Republican,Democrat,11/20/21
+Texas,"Entergy Texas, Inc.",315,None,No,No,Republican,Republican,11/20/21
+Wyoming,"Cheyenne Light, Fuel & Power Co.",403,None,No,No,Republican,Republican,11/20/21
+Idaho,"Fall River Electric Cooperative, Inc",406,Passed,No,No,Republican,Republican,11/20/21
+Montana,"Fall River Electric Cooperative, Inc",406,Passed,No,No,Republican,Republican,11/20/21
+Wyoming,"Fall River Electric Cooperative, Inc",406,None,No,No,Republican,Republican,11/20/21
+Florida,"Florida Keys Electric Cooperative Assoc., Inc.",407,None,No,No,Republican,Republican,11/20/21
+Colorado,"Moon Lake Electric Association, Inc.",414,Passed,No,No,Democrat,Democrat,11/20/21
+Utah,"Moon Lake Electric Association, Inc.",414,Introduced,Yes,No,Republican,Republican,11/20/21
+Massachusetts,Nantucket Electric Co.,416,None,No,No,Republican,Democrat,11/20/21
+Wisconsin,"North Central Power Co., Inc.",418,Passed,No,No,Democrat,Republican,11/20/21
+Pennsylvania,Pike County Light & Power Co.,422,None,No,No,Democrat,Republican,11/20/21
+Pennsylvania,"UGI Utilities, Inc.",428,None,No,No,Democrat,Republican,11/20/21
+Colorado,"United Power, Inc.",429,Passed,No,No,Democrat,Democrat,11/20/21
+Colorado,"Black Hills/Colorado Electric Utility Co., LP",432,Passed,No,No,Democrat,Democrat,11/20/21
+North Dakota,Basin Electric Power Cooperative,531,None,No,No,Republican,Republican,11/20/21
+Wyoming,Basin Electric Power Cooperative,531,None,No,No,Republican,Republican,11/20/21
