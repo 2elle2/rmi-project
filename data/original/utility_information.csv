@@ -1,0 +1,404 @@
+parent_name,parent_lei,parent_ticker,parent_isin,utility_name,respondent_id,utility_id_eia,utility_lei,entity_type_eia,utility_type_rmi,first_report_year,last_report_year,duplicate_utility_id_eia,utype
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,AEP Generating Co.,1,343,,Investor Owned,Independent Power Producer,1994,2020,,ipp
+Alcoa Corp.,549300T12EZ1F6PWWU29,AA,US0138721065,Alcoa Power Generating Inc.,4,,,,Independent Power Producer,1994,1999,,ipp
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,The Allegheny Generating Co.,5,6458,,Retail Power Marketer,Independent Power Producer,1994,2020,,ipp
+Brookfield Asset Management,C6J3FGIWG6MBDGTE8F80,BAM,CA1125851040,Catalyst Old River Hydroelectric Ltd.,18,6371,,Independent Power Producer,Independent Power Producer,1994,2020,,ipp
+Vistra Corp.,549300KP43CPCUJOOG15,VST,US92840M1027,"Electric Energy, Inc.",50,5748,5493007BHCOEQCCIFE68,Independent Power Producer,Independent Power Producer,1994,2013,,ipp
+Entergy Corp.,4XM3TW50JULSLG8BNC79,ETR,US29364G1031,"Entergy Power, LLC",52,,,,Independent Power Producer,1994,2014,,ipp
+Great Bay Power Corp.,,,,Great Bay Power Corp.,60,,,,Independent Power Producer,1994,1999,,ipp
+Invenergy LLC,549300NMCKSMDPKQ0502,,,Hardee Power Partners Ltd.,64,8106,5493008O2RY70G51UN50,Other,Independent Power Producer,1994,2001,,ipp
+Ohio Valley Electric Corp.,549300MA7EMERVYDHS24,,,Indiana-Kentucky Electric Corp.,72,9269,,Investor Owned,Independent Power Producer,1994,2020,,ipp
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,National Grid Generation LLC,85,26751,,Investor Owned,Independent Power Producer,1994,2020,,ipp
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,National Grid Generation LLC,85,56505,,Investor Owned,Independent Power Producer,1994,2020,,ipp
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,New England Power Co.,113,13433,549300DTVRGN9GYD5U85,Investor Owned,Independent Power Producer,1994,2020,,ipp
+TC Energy Corp.,549300UGKOFV2IWJJG27,TRP,CA87807B1076,Ocean State Power,124,27769,5493008JPG6UULRKTZ07,Independent Power Producer,Independent Power Producer,1994,2007,,ipp
+TC Energy Corp.,549300UGKOFV2IWJJG27,TRP,CA87807B1076,"Ocean State Power, II",125,27770,,Independent Power Producer,Independent Power Producer,1994,2007,,ipp
+Brookfield Asset Management,C6J3FGIWG6MBDGTE8F80,BAM,CA1125851040,Safe Harbor Water Power Corp.,153,59364,,Independent Power Producer,Independent Power Producer,1994,2014,,ipp
+Vistra Corp.,549300KP43CPCUJOOG15,VST,US92840M1027,TXU SESCO Co.,165,,,,Independent Power Producer,1994,2001,,ipp
+Entergy Corp.,4XM3TW50JULSLG8BNC79,ETR,US29364G1031,"System Energy Resources, Inc.",169,12465,,Investor Owned,Independent Power Producer,1994,2020,,ipp
+Alcoa Corp.,549300T12EZ1F6PWWU29,AA,US0138721065,"Alcoa Power Generating, Inc.",171,317,,Independent Power Producer,Independent Power Producer,1994,2020,,ipp
+WEC Energy Group,549300IGLYTZUK3PVP70,WEC,US92939U1060,Wisconsin River Power Co.,196,20863,,Investor Owned,Independent Power Producer,1994,2020,,ipp
+York Haven Power Co.,549300467K0TD2Z50713,,,York Haven Power Co.,199,56065,549300467K0TD2Z50713,Independent Power Producer,Independent Power Producer,1994,2007,,ipp
+Valtec Power,,,,"Black Creek Hydro, Inc.",211,1784,,Independent Power Producer,Independent Power Producer,1995,2009,,ipp
+"Hermiston Generating Co., L.P.",,,,"Hermiston Generating Co., L.P.",230,8503,,Independent Power Producer,Independent Power Producer,1996,2016,,ipp
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,Keyspan Generation LLC,239,,,,Independent Power Producer,1998,1998,,ipp
+Brookfield Asset Management,C6J3FGIWG6MBDGTE8F80,BAM,CA1125851040,"Carr Street Generating, L.P.",249,24202,549300RU3EZVXPJ72802,Independent Power Producer,Independent Power Producer,,,,ipp
+Eversource Energy,SJ7XXD41SQU3ZNWUJ746,ES,US30040W1080,Northeast Generation Co.,260,,549300W3CIHJRPZ15O28,,Independent Power Producer,,,,ipp
+Public Service Enterprise Group,PUSS41EMO3E6XXNV3U28,PEG,US7445731067,PSEG Power LLC,261,15452,,Independent Power Producer,Independent Power Producer,,,,ipp
+Vistra Corp.,549300KP43CPCUJOOG15,VST,US92840M1027,"Midwest Electric Power, Inc",262,12159,,Independent Power Producer,Independent Power Producer,2000,2015,,ipp
+Public Service Enterprise Group,PUSS41EMO3E6XXNV3U28,PEG,US7445731067,PSEG Power New York Inc.,263,14294,,Independent Power Producer,Independent Power Producer,,,,ipp
+Vistra Corp.,549300KP43CPCUJOOG15,VST,US92840M1027,Illinois Power Generating Co.,266,520,M2XAO3TMSOVP9I7JE295,Independent Power Producer,Independent Power Producer,2000,2014,,ipp
+Public Service Enterprise Group,PUSS41EMO3E6XXNV3U28,PEG,US7445731067,PSEG Fossil LLC,270,15147,,Independent Power Producer,Independent Power Producer,2000,2006,,ipp
+Public Service Enterprise Group,PUSS41EMO3E6XXNV3U28,PEG,US7445731067,PSEG Nuclear LLC,271,15478,549300OHPNV289VGRX63,Independent Power Producer,Independent Power Producer,2000,2006,,ipp
+"Evergy, Inc.",549300PGTHDQY6PSUI61,EVRG,US30034W1062,Wolf Creek Nuclear Operating Corp.,279,20893,,Investor Owned,Independent Power Producer,,,,ipp
+Northwestern Corp.,3BPWMBHR1R9SHUN7J795,NWE,US6680743050,Clark Fork & Blackfoot LLC,285,,,,Independent Power Producer,2002,2006,,ipp
+Cleco Partners LP,5493002H80P81B3HXL31,,US18551QAA58,"Perryville Energy Partners, LLC",298,,549300LEIVS43M8OWD43,,Independent Power Producer,2005,2017,,ipp
+TC Energy Corp.,549300UGKOFV2IWJJG27,TRP,CA87807B1076,Transcanada Hydro Northeast Inc.,299,50048,,Independent Power Producer,Independent Power Producer,2005,2007,,ipp
+Beacon Power Corp.,,,,Beacon Power Corp.,434,57031,,Independent Power Producer,Independent Power Producer,,,,ipp
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,AEP Generation Resources Inc.,452,58620,,Investor Owned,Independent Power Producer,2014,2014,,ipp
+"Taylor Creek Solar, LLC",,,,"Taylor Creek Solar, LLC",534,63290,,Independent Power Producer,Independent Power Producer,,,,ipp
+"Harmony Florida Solar, LLC",,,,"Harmony Florida Solar, LLC",535,63292,,Independent Power Producer,Independent Power Producer,,,,ipp
+Citizens' Electric Co.,,,,Citizens' Electric Co.,28,3579,,Retail Power Marketer,Munis & Coops,1994,2002,,muni_coop
+Edison Sault Electric Co.,,,,Edison Sault Electric Co.,48,5659,,Investor Owned,Munis & Coops,1994,2010,,muni_coop
+"Golden Spread Electric Coop., Inc",5493007UJR2NMSZPGP02,,,"Golden Spread Electric Coop., Inc.",58,7349,5493007UJR2NMSZPGP02,Cooperative,Munis & Coops,1994,2020,,muni_coop
+Eversource Energy,SJ7XXD41SQU3ZNWUJ746,ES,US30040W1080,Holyoke Power & Electric Co.,66,,,,Munis & Coops,1994,2009,,muni_coop
+Eversource Energy,SJ7XXD41SQU3ZNWUJ746,ES,US30040W1080,Holyoke Water Power Co.,67,8779,,Investor Owned,Munis & Coops,1994,2009,,muni_coop
+Old Dominion Electric Coop.,SW4VC32Z0ZKLJKPONQ50,,,Old Dominion Electric Coop.,129,40229,SW4VC32Z0ZKLJKPONQ50,Cooperative,Munis & Coops,1994,2020,,muni_coop
+Big Rivers Electric Corp.,COQ1W8HBTZOC1ADPR143,,,Big Rivers Electric Corp.,201,1692,COQ1W8HBTZOC1ADPR143,Cooperative,Munis & Coops,1994,2002,,muni_coop
+Chugach Electric Assn Inc.,,,,"Chugach Electric Association, Inc.",202,3522,,Cooperative,Munis & Coops,1994,2020,,muni_coop
+Texas Electric Coops. Inc.,549300BHQNXF2CJ1ES90,,,"East Texas Electric Coop., Inc.",203,39347,549300BHQNXF2CJ1ES90,Cooperative,Munis & Coops,1994,2005,,muni_coop
+"New Hampshire Electric Coop., Inc.",5493003TZVX6QJ0PBO15,,,"New Hampshire Electric Coop., Inc.",204,,5493003TZVX6QJ0PBO15,,Munis & Coops,1994,2005,,muni_coop
+Oconto Electric Coop.,,,,Oconto Electric Coop.,205,13964,,Cooperative,Munis & Coops,1994,1997,,muni_coop
+Peoples Electric Coop.,,,,Peoples Electric Coop.,206,,,,Munis & Coops,1994,2005,,muni_coop
+"Rayburn Country Electric Coop., Inc.",549300NIHMHEL3T1QQ97,,,"Rayburn Country Electric Coop., Inc.",207,,549300NIHMHEL3T1QQ97,,Munis & Coops,1994,2010,,muni_coop
+Medina Power Co.,,,,Medina Power Co.,209,,,,Munis & Coops,1994,1995,,muni_coop
+Midwest Energy Inc.,549300O4B5CVWMKUES27,,,Midwest Energy Inc.,213,12524,549300O4B5CVWMKUES27,Cooperative,Munis & Coops,1995,2020,,muni_coop
+Sempra,PBBKGKLRK5S5C0Y4T545,SRE,US8168511090,"Newcorp Resources Electric Coop., Inc.",215,,,,Munis & Coops,1995,2010,,muni_coop
+Connexus Energy,,,,Connexus Energy,218,,,,Munis & Coops,1996,2003,,muni_coop
+"Prairie Power, Inc.",XC5Z0IVHFCJDWCPZL176,,,"Prairie Power, Inc.",221,,XC5Z0IVHFCJDWCPZL176,,Munis & Coops,1996,2005,,muni_coop
+Pacific Northwest Generating Coop.,,,,Pacific Northwest Generating Coop.,222,14323,,Cooperative,Munis & Coops,1996,1996,,muni_coop
+Village Of Morrisville Water & Light Department,,,,Village Of Morrisville Water & Light Department,224,12989,,Municipal,Munis & Coops,1996,2003,,muni_coop
+Deseret Generation & Tran Coop.,,,,Deseret Generation & Transmission Coop.,226,40230,,Cooperative,Munis & Coops,1999,2020,,muni_coop
+Wolverine Power Supply Coop.,549300ROWOIV5X5MB591,,,"Wolverine Power Supply Coop., Inc.",227,20910,549300ROWOIV5X5MB591,Cooperative,Munis & Coops,1999,2020,,muni_coop
+Inland Power & Light Co.,,,,Inland Power & Light Co.,228,,,,Munis & Coops,1999,2005,,muni_coop
+"Graham County Electric Coop., Inc.",,,,"Graham County Electric Coop., Inc.",232,,,,Munis & Coops,1998,2005,,muni_coop
+Smarr EMC,,,,Smarr EMC,244,,,,Munis & Coops,1999,2005,,muni_coop
+"Buckeye Power, Inc.",549300VR7GQZV6W7OR57,,,"Buckeye Power, Inc.",245,7004,549300VR7GQZV6W7OR57,Cooperative,Munis & Coops,2000,2013,,muni_coop
+"Washington Electric Coop., Inc.",,,,"Washington Electric Coop., Inc.",246,20151,,Cooperative,Munis & Coops,,,,muni_coop
+"Vermont Electric Coop., Inc.",549300GNSLQRYVBRRM43,,,"Vermont Electric Coop., Inc.",247,,549300GNSLQRYVBRRM43,,Munis & Coops,1999,2005,,muni_coop
+Wayne-White Counties Electric Coop.,,,,Wayne-White Counties Electric Coop.,251,,,,Munis & Coops,1999,2005,,muni_coop
+"Alfalfa Electric Coop., Inc.",,,,"Alfalfa Electric Coop., Inc.",254,,,,Munis & Coops,1999,2005,,muni_coop
+"North Central Missouri Electric Coop., Inc.",,,,"North Central Missouri Electric Coop., Inc.",256,,,,Munis & Coops,2000,2004,,muni_coop
+First Electric Coop. Corp.,,,,First Electric Coop. Corp.,257,,,,Munis & Coops,2000,2005,,muni_coop
+Platte-Clay Electric Coop. Inc.,,,,Platte-Clay Electric Coop. Inc.,259,,,,Munis & Coops,2000,2004,,muni_coop
+Wells Rural Electric Co.,,,,Wells Rural Electric Co.,264,,,,Munis & Coops,2000,2004,,muni_coop
+The Walton E.M.C.,,,,The Walton E.M.C.,277,,,,Munis & Coops,2001,2005,,muni_coop
+Oglethorpe Power Corp.,3EERXCUSWMS9GV5D9M98,,,Talbot EMC,283,,,,Munis & Coops,2002,2003,,muni_coop
+"Wabash Valley Power Assn, Inc",VR27ZYPWHGW7Z1BM8Y69,,,"Wabash Valley Power Association, Inc.",294,40211,VR27ZYPWHGW7Z1BM8Y69,Cooperative,Munis & Coops,2004,2020,,muni_coop
+Southern Maryland Electric Coop.,DBBJWDBO6IRU2GBUJI29,,,Southern Maryland Electric Coop.,296,,DBBJWDBO6IRU2GBUJI29,,Munis & Coops,,,,muni_coop
+"Wabash Valley Power Assn, Inc",VR27ZYPWHGW7Z1BM8Y69,,,"Wabash Valley Energy Marketing, Inc.",312,,,,Munis & Coops,2007,2020,,muni_coop
+Access Energy Coop.,,,,Access Energy Coop.,400,,,,Munis & Coops,,,,muni_coop
+"Bridger Valley Electric Association, Inc.",,,,"Bridger Valley Electric Association, Inc.",402,,,,Munis & Coops,2004,2004,,muni_coop
+Hagerstown Light Department,,,,Hagerstown Light Department,404,,,,Munis & Coops,2004,2006,,muni_coop
+"Dixie-Escalante Rural Electric Association, Inc.",,,,Dixie-Escalante Rural Electric Association,405,,,,Munis & Coops,2004,2004,,muni_coop
+Fall River Electric Coop.,,,,"Fall River Electric Coop., Inc",406,6169,,Cooperative,Munis & Coops,2004,2005,,muni_coop
+"Florida Keys Electric Coop. Assoc., Inc.",,,,"Florida Keys Electric Coop. Assoc., Inc.",407,6443,,Cooperative,Munis & Coops,2004,2005,,muni_coop
+"Flowell Electric Association, Inc.",,,,"Flowell Electric Association, Inc.",408,,,,Munis & Coops,2004,2004,,muni_coop
+Harney Electric Coop.,,,,Harney Electric Coop.,409,,,,Munis & Coops,2004,2005,,muni_coop
+Idaho County Light & Power Coop. Assoc. Inc.,,,,Idaho County Light & Power Coop. Assoc. Inc.,410,,,,Munis & Coops,2004,2004,,muni_coop
+Kandiyohi  Power Coop.,,,,Kandiyohi  Power Coop.,411,,,,Munis & Coops,2004,2004,,muni_coop
+Lyon Rural Electric Coop.,,,,Lyon Rural Electric Coop.,412,,,,Munis & Coops,2004,2004,,muni_coop
+Mcdonough Power Coop.,,,,Mcdonough Power Coop.,413,,,,Munis & Coops,2004,2005,,muni_coop
+"Moon Lake Electric Association, Inc.",,,,"Moon Lake Electric Association, Inc.",414,12866,,Cooperative,Munis & Coops,,,,muni_coop
+"Mt. Wheeler Power, Inc.",,,,"Mt. Wheeler Power, Inc.",415,,,,Munis & Coops,,,,muni_coop
+North West Rural Electric Coop.,,,,North West Rural Electric Coop.,417,,,,Munis & Coops,2004,2005,,muni_coop
+"Oregon Trail Electric Consumers Coop., Inc.",,,,"Oregon Trail Electric Consumers Coop, Inc.",420,,,,Munis & Coops,,,,muni_coop
+Penoyer Valley Electric Co.,,,,Penoyer Valley Electric Co.,421,,,,Munis & Coops,,,,muni_coop
+Somerset Rural Electric Coop. Inc.,,,,Somerset Rural Electric Coop. Inc.,424,,,,Munis & Coops,,,,muni_coop
+Sun River Electric Coop.,,,,Sun River Electric Coop.,426,,,,Munis & Coops,2004,2004,,muni_coop
+Sussex Rural Electric Coop.,,,,Sussex Rural Electric Coop.,427,,,,Munis & Coops,,,,muni_coop
+"United Power, Inc.",8945004QAHNC2OHL6926,,,"United Power, Inc.",429,19499,,Cooperative,Munis & Coops,2004,2004,,muni_coop
+"White River Electric Association, Inc.",,,,"White River Electric Association, Inc.",430,,,,Munis & Coops,2004,2004,,muni_coop
+"Salmon River Electric Coop., Inc.",,,,"Salmon River Electric Coop., Inc.",431,,,,Munis & Coops,2004,2004,,muni_coop
+"Tri-State Generation & Transmission Association, Inc.",549300VDHNFNPADSSV98,,,Tri-State G & T Association,529,30151,549300VDHNFNPADSSV98,Cooperative,Munis & Coops,2019,2020,,muni_coop
+Basin Electric Power Coop.,5493002CLOJ5KYT5GB16,,US070101AH36,Basin Electric Power Coop.,531,1307,5493002CLOJ5KYT5GB16,Cooperative,Munis & Coops,2019,2020,,muni_coop
+Upper Missouri G & T Electric Coop.,,,,"Upper Missouri G & T Electric Coop., Inc.",536,19389,,Cooperative,Munis & Coops,2019,2020,,muni_coop
+"Mckenzie Electric Coop., Inc.",,,,"Mckenzie Electric Coop., Inc.",541,12087,,Cooperative,Munis & Coops,2019,2020,,muni_coop
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,Blackstone Valley Electric Co.,13,,,,Other,1994,2000,,other_wires
+Century Power Corp.,,,,Century Power Corp.,26,,,,Other,1994,1995,,other_wires
+Frontier Communications Corp.,549300ZCZ76HYCS0H445,,,Citizens Communciations Co.,29,,,,Other,1994,2004,,other_wires
+Unitil Corp.,,UTL,US9132591077,Unitil Power Corp.,35,,,,Other,1994,2020,,other_wires
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,Connecticut Yankee Atomic Power Co.,38,,,,Other,1994,2020,,other_wires
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,Eastern Edison Co.,47,,,,Other,1994,2000,,other_wires
+Unitil Corp.,,UTL,US9132591077,Exeter & Hampton Electric Co.,53,,,,Other,1994,2002,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,Kanawha Valley Power Co.,78,,,,Other,1994,1994,,other_wires
+Alcoa Corp.,549300T12EZ1F6PWWU29,AA,US0138721065,"Long Sault, Inc.",86,,,,Other,1994,1999,,other_wires
+Entergy Corp.,4XM3TW50JULSLG8BNC79,ETR,US29364G1031,"Entergy Louisiana, LLC",87,11241,0V5453U14HDZO63CGH17,Investor Owned,Other,1994,2015,TRUE,other_wires
+Maine Yankee Atomic Power Co.,,,,Maine Yankee Atomic Power Co.,92,,,,Other,1994,2020,,other_wires
+"Berkshire Hathaway, Inc.",5493000C01ZX7D35SD85,BRK-B,US0846707026,Midwest Power Systems Inc.,97,,,,Other,1994,1994,,other_wires
+Northwestern Corp.,3BPWMBHR1R9SHUN7J795,NWE,US6680743050,The Montana Power Co.,102,,,,Other,1994,2001,,other_wires
+MDU Resources Group,0T6SBMK3JTBI1JR36794,MDU,US5526901096,Montana-Dakota Utilities Co.,103,12199,0T6SBMK3JTBI1JR36794,Investor Owned,Other,,,TRUE,other_wires
+NRG Energy Inc.,5E2UPK5SW04M13XY7I38,NRG,US6293775085,Montaup Electric Co.,104,,,,Other,1994,2000,,other_wires
+Alcoa Corp.,549300T12EZ1F6PWWU29,AA,US0138721065,Nantahala Power & Light Co.,106,13204,,Investor Owned,Other,1994,1997,,other_wires
+Arclight Capital Partners LLC,549300GW1DWMX7FLDM29,,,Nevada Sun-Peak Ltd.,109,,,,Other,1994,1997,,other_wires
+Eversource Energy,SJ7XXD41SQU3ZNWUJ746,ES,US30040W1080,North Atlantic Energy Corp.,118,,,,Other,1994,2002,,other_wires
+Ohio Valley Electric Corp.,549300MA7EMERVYDHS24,,,Ohio Valley Electric Corp.,128,14015,549300MA7EMERVYDHS24,Investor Owned,Other,1994,2020,,other_wires
+Pepperell Realty,,,,"Pepperell Power Association, Ltd.",139,,,,Other,,,,other_wires
+Ameren Corp.,XRZQ5S7HYJFPHJ78L959,AEE,US0236081024,"South Beloit Water, Gas & Electric Co.",158,,,,Other,1994,2007,,other_wires
+Exelon Corp.,3SOUA6IRML7435B56G12,EXC,US30161N1019,Susquehanna Electric Co.,168,18344,,Private,Other,1994,2008,,other_wires
+Terra Comfort Corp.,,,,Terra Comfort Corp.,172,,,,Other,,,,other_wires
+"Energir, Inc.",5QK37QC7NWOJ8D7WVQ45,IBDRY,ES0144580Y14,Vermont Yankee Nuclear Power Corp.,185,,,,Other,1994,2020,,other_wires
+Alcoa Corp.,549300T12EZ1F6PWWU29,AA,US0138721065,"Yadkin, Inc.",197,,,,Other,1994,1999,,other_wires
+Yankee Atomic Electric Co.,,,,Yankee Atomic Electric Co.,198,,,,Other,1994,2020,,other_wires
+Beebee Island Corp.,,,,Beebee Island Corp.,212,,,,Other,1995,1998,,other_wires
+Moreau Manufacturing,,,,Moreau Manufacturing,214,,,,Other,1995,1998,,other_wires
+California Independent System Operator Corp.,1HNPXZSMMB7HMBMVBS46,PCG,US13034ADM99,California Independent System Operator Corp.,229,,,,Other,1998,2020,,other_wires
+ISO New England Inc.,549300FIA0OYFDEISW66,,,ISO New England Inc.,231,,549300FIA0OYFDEISW66,,Other,1998,2020,,other_wires
+Berea College Utilities,,,,Berea College Utilities,233,,,,Other,,,,other_wires
+"LDC Funding, LLC",5493001O3WF4ACHXMO44,,,"Delta Natural Gas Co., Inc.",234,,5493001O3WF4ACHXMO44,,Other,,,,other_wires
+Duke Energy Corp.,I1BZKREC126H0VB1BL91,DUK,US26441C2044,Duke Energy Moss Landing LLC,235,21335,,,Other,,,,other_wires
+Duke Energy Corp.,I1BZKREC126H0VB1BL91,DUK,US26441C2044,Duke Energy Oakland LLC,236,21336,,,Other,,,,other_wires
+Antin Infrastructure Partners,2138004PVNAV1E9SZP35,,,Trigen-Kansas City Energy Corp.,237,,,,Other,,,,other_wires
+California Power Exchange Corp.,,,,California Power Exchange Corp.,240,,,,Other,1998,2000,,other_wires
+"Dixie-Escalante Rural Electric Association, Inc.",,,,"Dixie-Escalante Rural Electric Association, Inc.",241,,,,Other,,,,other_wires
+"Mt. Wheeler Power, Inc.",,,,"Mt. Wheeler Power, Inc.",242,,,,Other,,,,other_wires
+Hess Corp.,UASVRYNXNK17ULIGK870,HES,US42809H1077,Hess Corp.,243,,,,Other,,,,other_wires
+"Indeck Energy Services, Inc.",,,,Adirondack Hydro Development Corp.,248,,,,Other,,,,other_wires
+New York Independent System Operator,5493004A26ERKLO7Y203,,,New York Independent System Operator,250,,5493004A26ERKLO7Y203,,Other,1999,2020,,other_wires
+"PJM Interconnection, LLC",549300M3VK6MP6R72034,,,"PJM Interconnection, LLC",255,,549300M3VK6MP6R72034,,Other,1998,2020,,other_wires
+"Northern Maine Independent System Administrator, Inc",,,,"Northern Maine Independent System Administrator, Inc",265,,,,Other,,,,other_wires
+Wellsboro Electric Co.,,,,Wellsboro Electric Co.,267,,,,Other,,,,other_wires
+Public Service Enterprise Group,PUSS41EMO3E6XXNV3U28,PEG,US7445731067,PSEG Energy Resources & Trade LLC,272,,J1I2POYUPE1NKHS3L256,,Other,2000,2006,,other_wires
+"Midcontinent Independent System Operator, Inc",549300QIEIVG0JUPV270,,,"Midcontinent Independent System Operator, Inc",274,,549300QIEIVG0JUPV270,,Other,2002,2020,,other_wires
+Citizens Electric Corp.,,,,Citizens Electric Corp.,284,,,,Other,,,,other_wires
+Oglethorpe Power Corp.,3EERXCUSWMS9GV5D9M98,,,Chattahoochee EMC,287,,,,Other,2003,2003,,other_wires
+"Southwest Power Pool, Inc.",549300NXXWJMFXIKNU79,,,"Southwest Power Pool, Inc.",297,,549300NXXWJMFXIKNU79,,Other,2005,2020,,other_wires
+Pinnacle West Capital Corp.,TWSEY0NEDUDCKS27AH81,PNW,US7234841010,APS Energy Services Co.,303,,,,Other,,,,other_wires
+Entergy Corp.,4XM3TW50JULSLG8BNC79,ETR,US29364G1031,"Ewo Marketing, LLC",305,,DG7VVR75BB1NU22HTE76,,Other,2006,2020,,other_wires
+Entergy Corp.,4XM3TW50JULSLG8BNC79,ETR,US29364G1031,"Entergy Power Ventures, LP",306,,,,Other,2006,2010,,other_wires
+Entergy Corp.,4XM3TW50JULSLG8BNC79,ETR,US29364G1031,"Warren Power, LLC",307,,,,Other,2006,2008,,other_wires
+Pinnacle West Capital Corp.,TWSEY0NEDUDCKS27AH81,PNW,US7234841010,Pinnacle West Marketing & Trading Co. LLC,310,,,,Other,2007,2008,,other_wires
+Exelon Corp.,3SOUA6IRML7435B56G12,EXC,US30161N1019,"Southeast Chicago Energy Project, LLC",317,,,,Other,2006,2008,,other_wires
+Citizens Energy Corp.,5493008ORX814MK1WM19,,,Citizens Sunrise Transmission LLC.,321,,,,Other,2012,2020,,other_wires
+AJO Improvement Co.,,,,AJO Improvement Co.,401,,,,Other,,,,other_wires
+Omya AG,5299004YRCHMOU9FKK67,,,"Omya, Inc.",419,19794,,Industrial,Other,2004,2011,,other_wires
+Southern California Water Co.,549300HGBYL24QM6KT27,,,Southern California Water Co.,425,,549300HGBYL24QM6KT27,,Other,,,,other_wires
+SU FERC LLC,,,,SU FERC LLC,445,,,,Other,2010,2014,,other_wires
+"PJM Interconnection, LLC",549300M3VK6MP6R72034,,,"PJM Settlement, Inc.",447,,,,Other,2011,2020,,other_wires
+"Nudevco Partners, LLC",549300U656GZMTWR1T03,,,"Verde Energy USA, Inc.",448,,549300ZIG96RK6EOWX39,,Other,,,,other_wires
+Entergy Corp.,4XM3TW50JULSLG8BNC79,ETR,US29364G1031,"Eam Nelson Holding, LLC",449,,,,Other,2011,2014,,other_wires
+Exelon Corp.,3SOUA6IRML7435B56G12,EXC,US30161N1019,"Riteline Illinois, LLC",450,,,,Other,,,,other_wires
+Pinnacle West Capital Corp.,TWSEY0NEDUDCKS27AH81,PNW,US7234841010,"4C Acquisition, LLC",513,,,,Other,2016,2016,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,AEP Texas Inc.,514,,5493001L78U618KXNZ75,,Other,2017,2020,,other_wires
+American States Water Co.,,,,"Bear Valley Electric Service, Inc.",537,17612,,Investor Owned,Other,2020,2020,,other_wires
+,,,,,542,,,,Other,,,,other_wires
+Versant Power,NQZVQT2P5IUF2PGA1Q48,EMA,CA2908761018,Versant Power,11,1179,549300BILWQVIFCJ0C57,Investor Owned,Restructured,1994,2020,,restructured
+Eversource Energy,SJ7XXD41SQU3ZNWUJ746,ES,US30040W1080,Boston Edison Co.,14,,54930080R72Y2Z31UR68,,Restructured,1994,2006,,restructured
+Eversource Energy,SJ7XXD41SQU3ZNWUJ746,ES,US30040W1080,Cambridge Electric Light Co.,15,,,,Restructured,1994,2006,,restructured
+Eversource Energy,SJ7XXD41SQU3ZNWUJ746,ES,US30040W1080,Canal Electric Co.,16,,,,Restructured,1994,2002,,restructured
+"Fortis, Inc.",549300MQYQ9Y065XPR71,FTS,CA3495531079,Central Hudson Gas & Electric Corp.,19,3249,TP9WEQL6JOF6GP647G47,Investor Owned,Restructured,1994,2020,,restructured
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,Columbus Southern Power Co.,31,4062,,Investor Owned,Restructured,1994,2011,,restructured
+Eversource Energy,SJ7XXD41SQU3ZNWUJ746,ES,US30040W1080,Commonwealth Electric Co.,34,,,,Restructured,1994,2006,,restructured
+"Consolidated Edison, Inc.",54930033SBW53OO8T749,ED,US2091151041,"Consolidated Edison Co. Of New York, Inc.",36,4226,VZFZPMWDHTQCFKYOBP05,Investor Owned,Restructured,1994,2020,,restructured
+Eversource Energy,SJ7XXD41SQU3ZNWUJ746,ES,US30040W1080,Connecticut Valley Electric Co. Inc.,37,,,,Restructured,1994,2003,,restructured
+AES Corp.,2NUNNB7D43COUIRE5295,AES,US00130H1059,The Dayton Power & Light Co.,42,4922,1ELKY8G44MKGCQWG6864,Investor Owned,Restructured,1994,2020,,restructured
+Unitil Corp.,549300EYGHO5EZE7RL80,UTL,US9132591077,Fitchburg Gas & Electric Light Co.,54,6374,549300EYGHO5EZE7RL80,Investor Owned,Restructured,1994,2020,,restructured
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,Jersey Central Power & Light Co.,77,9726,549300W9UGH9ZPLNPF79,Investor Owned,Restructured,1994,2020,,restructured
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,Massachusetts Electric Co.,93,11804,549300XN8GZY5U5O1B96,Investor Owned,Restructured,1994,2020,,restructured
+"Avangrid, Inc.",549300OX0Q38NLSKPB49,AGR,US05351W1036,New York State Electric & Gas Corp.,115,13511,549300GEC6J0YHUXA160,Investor Owned,Restructured,1994,2020,,restructured
+PG&E Corp.,1HNPXZSMMB7HMBMVBS46,PCG,US69331C1080,Pacific Gas & Electric Co.,133,14328,1HNPXZSMMB7HMBMVBS46,Investor Owned,Restructured,1994,2020,,restructured
+Public Service Enterprise Group,PUSS41EMO3E6XXNV3U28,PEG,US7445731067,Public Service Electric & Gas Co.,149,15477,549300RUHPVD434XUK18,Investor Owned,Restructured,1994,2020,,restructured
+"Avangrid, Inc.",549300OX0Q38NLSKPB49,AGR,US05351W1036,Rochester Gas & Electric Corp.,151,16183,549300DD8M80WFTQO509,Investor Owned,Restructured,1994,2020,,restructured
+Sempra,PBBKGKLRK5S5C0Y4T545,SRE,US8168511090,San Diego Gas & Electric Co.,155,16609,,Investor Owned,Restructured,1994,2020,,restructured
+Edison International,549300I7ROF15MAEVP56,EIX,US2810201077,Southern California Edison Co.,161,17609,9R1Z5I36FERIBVKW4P77,Investor Owned,Restructured,1994,2020,,restructured
+"Avangrid, Inc.",549300OX0Q38NLSKPB49,AGR,US05351W1036,The United Illuminating Co.,179,19497,549300B4YGCZQQ06TA03,Investor Owned,Restructured,1994,2020,,restructured
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,AEP Texas North Co.,189,20404,N867DKW88OMNSCJT1K39,Investor Owned,Restructured,1994,2016,,restructured
+American States Water Co.,529900L26LIS2V8PWM23,AWR,US0298991011,Golden State Water Co.,269,54710,549300HGBYL24QM6KT27,Investor Owned,Restructured,2003,2020,,restructured
+Eversource Energy,SJ7XXD41SQU3ZNWUJ746,ES,US30040W1080,Nstar Electric Co.,309,54913,54930080R72Y2Z31UR68,Investor Owned,Restructured,2007,2020,,restructured
+WEC Energy Group,549300IGLYTZUK3PVP70,WEC,US92939U1060,Upper Michigan Energy Resources Corp.,519,61029,,Investor Owned,Restructured,2017,2020,,restructured
+Algonquin Power & Utilities Corp.,549300K5VIUTJXQL7X75,AQN,US0158577090,Liberty Utilities (Calpeco Electric) LLC,522,57222,,Investor Owned,Restructured,2017,2020,,restructured
+Southern Co.,549300FC3G3YU2FBZD92,SO,US8425871071,Alabama Power Co.,2,195,0RL818ELFOHP5JHOFU19,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Avista Corp.,Q0IK63NITJD6RJ47SW96,AVA,US05379B1070,Alaska Electric Light & Power Co.,3,213,,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,Appalachian Power Co.,6,733,3SCHO1ABYYIG382BEI70,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Pinnacle West Capital Corp.,TWSEY0NEDUDCKS27AH81,PNW,US7234841010,Arizona Public Service Co.,7,803,YG6VT0TPHRH4TFVAQV64,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Entergy Corp.,4XM3TW50JULSLG8BNC79,ETR,US29364G1031,"Entergy Arkansas, LLC",8,814,549300A0I5ONUIFMLP35,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Black Hills Corp.,3MGELCRSTNSAMJ962671,BKH,US0921131092,"Black Hills Power, Inc.",12,19545,549300WSKCZZU2LB2X28,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Duke Energy Corp.,I1BZKREC126H0VB1BL91,DUK,US26441C2044,"Duke Energy Progress, LLC",17,3046,0NIFZ782LS46WOC9QK20,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Ameren Corp.,XRZQ5S7HYJFPHJ78L959,AEE,US0236081024,Central Illinois Light Co.,20,3252,,Investor Owned,Vertically Integrated,1994,2010,,vert_int
+Ameren Corp.,XRZQ5S7HYJFPHJ78L959,AEE,US0236081024,Central Illinois Public Service Co.,21,3253,RC71E2BZ6UOMFPDJSE79,Investor Owned,Vertically Integrated,1994,2010,,vert_int
+Cleco Partners LP,5493002H80P81B3HXL31,,US18551QAA58,Cleco Power LLC,22,3265,TM1ZH54SJKLNHFCBFK92,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Energir, Inc.",5QK37QC7NWOJ8D7WVQ45,IBDRY,ES0144580Y14,Central Vermont Public Service Corp.,25,3292,,Investor Owned,Vertically Integrated,1994,2012,,vert_int
+Verso Corp.,549300FODXCTQ8DGT594,VRS,,Consolidated Water Power Co.,40,4247,,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+CMS Energy Corp.,549300IA9XFBAGNIBW29,CMS,US1258961002,Consumers Energy Co.,41,4254,7NKTFWJ1G6MELP9TU740,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+DTE Energy,549300IX8SD6XXD71I78,DTE,US2333311072,DTE Electric Co.,44,5109,9N0FWODEJVKHC2DYLO03,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Duke Energy Corp.,I1BZKREC126H0VB1BL91,DUK,US26441C2044,"Duke Energy Carolinas, LLC",45,5416,MWIUSDMN17TCR56VW396,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+El Paso Electric Co,OZ8GM8L4AHPKSWZMW205,EE,US283677AZ52,El Paso Electric Co.,49,5701,OZ8GM8L4AHPKSWZMW205,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Algonquin Power & Utilities Corp.,549300K5VIUTJXQL7X75,AQN,US0158577090,The Empire District Electric Co.,51,5860,SODDIORBUCWXMHSFJ978,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Duke Energy Corp.,I1BZKREC126H0VB1BL91,DUK,US26441C2044,"Duke Energy Florida, LLC",55,6455,7MOHLM3DKE63RX2ZCN83,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"NextEra Energy, Inc.",A89MY1K3YLIGJMYWVX50,NEE,US65339F1012,Florida Power & Light Co.,56,6452,A89MY1K3YLIGJMYWVX50,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Southern Co.,549300FC3G3YU2FBZD92,SO,US8425871071,Georgia Power Co.,57,7140,D981X4Z4RWS7PDMJUZ03,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Energir, Inc.",5QK37QC7NWOJ8D7WVQ45,IBDRY,ES0144580Y14,Green Mountain Power Corp.,61,7601,549300GXFVX0SC256V06,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"NextEra Energy, Inc.",BLVY3B5CY5IDPCFLQ577,NEE,US65339F1012,Gulf Power Co.,62,7801,BLVY3B5CY5IDPCFLQ577,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Entergy Corp.,4XM3TW50JULSLG8BNC79,ETR,US29364G1031,"Entergy Gulf States Louisiana, LLC",63,55936,8F4SD5Y4YNDDSMHFUP83,Investor Owned,Vertically Integrated,1994,2015,,vert_int
+"Hawaiian Electric Industries, Inc.",JJ8FWOCWCV22X7GUPJ23,HE,US4198701009,"Hawaiian Electric Co., Inc.",65,19547,549300PQE8D806LWQV52,Investor Owned,Vertically Integrated,1994,2008,,vert_int
+Alliant Energy,5493009ML300G373MZ12,LNT,US0188021085,IES Utilities Inc.,69,,EF9UQIIO4KY2BWOK3P26,,Vertically Integrated,1994,2001,,vert_int
+"Idacorp, Inc.",N134NUJDWN8UEFA8B673,IDA,US4511071064,Idaho Power Co.,70,9191,TN0LL73P2C8X3W6KM391,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,Indiana Michigan Power Co.,73,9324,JHR9V15J0ZRG02MIRD06,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+AES Corp.,2NUNNB7D43COUIRE5295,AES,US00130H1059,Indianapolis Power & Light Co.,74,9273,2T85JNP2R2B2GTSFND21,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Alliant Energy,5493009ML300G373MZ12,LNT,US0188021085,Interstate Power Co.,75,,,,Vertically Integrated,1994,2001,,vert_int
+"Berkshire Hathaway, Inc.",5493000C01ZX7D35SD85,BRK-B,US0846707026,Iowa-Illinois Gas & Electric Co.,76,,,,Vertically Integrated,1994,1994,,vert_int
+"Evergy, Inc.",549300PGTHDQY6PSUI61,EVRG,US30034W1062,"Evergy Metro, Inc.",79,10000,1128SIJQ26096WL7IO82,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Evergy, Inc.",549300PGTHDQY6PSUI61,EVRG,US30034W1062,"Evergy Kansas South, Inc.",80,10005,COSLT31YNZB2QZPP3422,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,Kentucky Power Co.,81,22053,JHOZYZ5WPEXWR477VH72,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+PPL Corp.,9N3UAJSNOUXFKQLF3V18,PPL,US69351T1060,Kentucky Utilities Co.,82,10171,AGX0G2MXE54NFNNICD28,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Milliken & Co.,549300XB5UQO7U766C18,,,Lockhart Power Co.,84,11118,,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+PPL Corp.,9N3UAJSNOUXFKQLF3V18,PPL,US69351T1060,Louisville Gas & Electric Co.,88,11249,KO3GRIB3RPH1XDX50U72,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"MGE Energy, Inc.",549300BYWGHSXX2TEO67,,,Madison Gas & Electric Co.,89,11479,549300BYWGHSXX2TEO67,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Hawaiian Electric Industries, Inc.",JJ8FWOCWCV22X7GUPJ23,HE,US4198701009,"Maui Electric Co., Ltd.",94,11843,549300AYWQ3QPHR4VE13,Investor Owned,Vertically Integrated,1994,2008,,vert_int
+MDU Resources Group,0T6SBMK3JTBI1JR36794,MDU,US5526901096,Montana-Dakota Utilities Co.,95,12199,0T6SBMK3JTBI1JR36794,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"ALLETE, Inc.",549300NNLSIMY6Z8OT86,ALE,US0185223007,"Minnesota Power, Inc.",98,12647,549300NNLSIMY6Z8OT86,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Southern Co.,549300FC3G3YU2FBZD92,SO,US8425871071,Mississippi Power Co.,99,12686,LNZ0J6YZ5SC6ILIRU850,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Entergy Corp.,4XM3TW50JULSLG8BNC79,ETR,US29364G1031,"Entergy Mississippi, LLC",100,12685,FKUZOUT82DOBGXFS6K20,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,Monongahela Power Co.,101,12796,,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Berkshire Hathaway, Inc.",5493000C01ZX7D35SD85,BRK-B,US0846707026,Nevada Power Co.,108,13407,MJZFGXRJ52U8U4MKJ519,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Entergy Corp.,4XM3TW50JULSLG8BNC79,ETR,US29364G1031,"Entergy New Orleans, LLC",114,13478,1Q8BAFRNDFTDI3IGJH73,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Nisource Inc.,549300D8GOWWH0SJB189,NI,US65473P1057,Northern Indiana Public Service Co. LLC,119,13756,R0EVHK05K3F85LVM4R52,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Xcel Energy, Inc.",LGJNMI9GH8XIDG5RCM61,XEL,US98389B1008,Northern States Power Co. (Minnesota),120,13781,3S1GHB0TEH85KX44SB51,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Xcel Energy, Inc.",LGJNMI9GH8XIDG5RCM61,XEL,US98389B1008,Northern States Power Co. (Wisconsin),121,13780,OOVRSRHKQSBLKRB7QM17,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Northwestern Corp.,3BPWMBHR1R9SHUN7J795,NWE,US6680743050,Northwestern Corp.,122,56815,3BPWMBHR1R9SHUN7J795,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Northwestern Corp.,3BPWMBHR1R9SHUN7J795,NWE,US6680743050,Northwestern Corp.,122,13809,3BPWMBHR1R9SHUN7J795,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Northwestern Corp.,3BPWMBHR1R9SHUN7J795,NWE,US6680743050,Northwestern Corp.,122,12825,,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Northwestern Corp.,3BPWMBHR1R9SHUN7J795,NWE,US6680743050,Northwestern Corp.,122,13902,3BPWMBHR1R9SHUN7J795,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Northwestern Wisconsin Electric Co.,,,,Northwestern Wisconsin Electric Co.,123,13815,,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+OG&E Energy Corp.,CE5OG6JPOZMDSA0LAQ19,OGE,US6708371033,Oklahoma Gas & Electric Co.,130,14063,549300VJ8YXGPO8EV472,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Otter Tail Corp.,549300HHVBQRQUVKKD91,OTTR,US6896481032,Otter Tail Power Co.,132,14232,549300HHVBQRQUVKKD91,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Berkshire Hathaway, Inc.",5493000C01ZX7D35SD85,BRK-B,US0846707026,Pacificorp,134,14354,SGY07Y7FNYBNLM6Z1M11,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Portland General Electric Co.,GJOUP9M7C39GLSK9R870,POR,US7365088472,Portland General Electric Co.,141,15248,GJOUP9M7C39GLSK9R870,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Duke Energy Corp.,I1BZKREC126H0VB1BL91,DUK,US26441C2044,"Duke Energy Indiana, LLC",144,15470,6URPHM2EAWGJ2C6ISB97,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Xcel Energy, Inc.",LGJNMI9GH8XIDG5RCM61,XEL,US98389B1008,Public Service Co. Of Colorado,145,15466,5BANEF6PGSEK0SNMQF44,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"PNM Resources, Inc.",5493003JOBJGLZSDDQ28,PNG,US69349H1077,Public Service Co. Of New Mexico,147,15473,OFZN1UT56PNG1CGSR346,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,Public Service Co. Of Oklahoma,148,15474,F3TJNSIZRGXRH8GEIK79,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Puget Holdings LLC,8MNFJR7KOMBQ7X62LK44,,,"Puget Sound Energy, Inc.",150,15500,8MNFJR7KOMBQ7X62LK44,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Evergy, Inc.",549300PGTHDQY6PSUI61,EVRG,US30034W1062,St. Joseph Light & Power Co.,154,,,,Vertically Integrated,1994,2000,,vert_int
+"Evergy, Inc.",549300PGTHDQY6PSUI61,EVRG,US30034W1062,Savannah Electric & Power Co.,156,16687,,Investor Owned,Vertically Integrated,1994,2006,,vert_int
+"Berkshire Hathaway, Inc.",5493000C01ZX7D35SD85,BRK-B,US0846707026,Sierra Pacific Power Co.,157,17166,QB888G5GSVGE1LD1WV84,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Dominion Energy,ILUL7B6Z54MRYCF6H308,D,US25746U1097,"Dominion Energy South Carolina, Inc.",159,17539,3QRVFYR22IUIEOORTK28,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Dominion Energy,ILUL7B6Z54MRYCF6H308,D,US25746U1097,"South Carolina Generating Co., Inc.",160,17554,WF1DFT7JGT90VIJ1YX68,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Southern Co.,549300FC3G3YU2FBZD92,SO,US8425871071,Southern Electric Generating Co.,162,17622,5493002DGRU2CP8MZE54,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Centerpoint Energy, Inc.",21TPXMRRHFKOBHDC8J74,CNP,US15189T1079,Southern Indiana Gas & Electric Co.,163,17633,549300DSU5XJN9OS5G32,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,Southwestern Electric Power Co.,164,17698,R64UBJHEC74EB3HGQ410,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Xcel Energy, Inc.",LGJNMI9GH8XIDG5RCM61,XEL,US98389B1008,Southwestern Public Service Co.,166,17718,OL6FE7QD5EQ3DOYEO258,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"ALLETE, Inc.",549300NNLSIMY6Z8OT86,ALE,US0185223007,"Superior Water, Light & Power Co.",167,18336,,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Emera Inc.,NQZVQT2P5IUF2PGA1Q48,EMA,CA2908761018,Tampa Electric Co.,170,18454,WS423EPRKJIIJUITXD73,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Fortis, Inc.",549300MQYQ9Y065XPR71,FTS,CA3495531079,Tucson Electric Power Co.,176,24211,YLF139GXSRKPBBTNZL03,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Ameren Corp.,XRZQ5S7HYJFPHJ78L959,AEE,US0236081024,Ameren Missouri,177,19436,QMPJLLDULY5C1M8PNY21,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Duke Energy Corp.,I1BZKREC126H0VB1BL91,DUK,US26441C2044,"Duke Energy Kentucky, Inc.",178,55729,8DFCA0P2BKMHOESX4E68,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Balfour Beatty Infrastructure Partners, L.P.",CT4UIJ3TUKGYYHMENQ17,BBY,GB0000961622,Upper Peninsula Power Co.,181,19578,549300UW6HD3UIG70Y90,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Evergy, Inc.",549300PGTHDQY6PSUI61,EVRG,US30034W1062,"Evergy Missouri West, Inc.",182,56211,EZIFUDC0VSUS6T6LCG85,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Dominion Energy,ILUL7B6Z54MRYCF6H308,D,US25746U1097,Dominion Energy Virginia,186,19876,CQKUMNNZVDJLRYV2PT43,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Avista Corp.,Q0IK63NITJD6RJ47SW96,AVA,US05379B1070,Avista Corp.,187,20169,Q0IK63NITJD6RJ47SW96,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"Evergy, Inc.",549300PGTHDQY6PSUI61,EVRG,US30034W1062,"Evergy Kansas Central, Inc.",191,22500,J75GNWGEO73W89ZV3S44,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,Wheeling Power Co.,192,20521,549300YB9OSQEF7OYJ23,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+WEC Energy Group,549300IGLYTZUK3PVP70,WEC,US92939U1060,Wisconsin Electric Power Co.,193,20847,AENKIFMULUAWOUU8Q584,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+Alliant Energy,5493009ML300G373MZ12,LNT,US0188021085,Wisconsin Power & Light Co.,194,20856,JWBYHVQVMY66CVCOSO49,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+WEC Energy Group,549300IGLYTZUK3PVP70,WEC,US92939U1060,Wisconsin Public Service Corp.,195,20860,549300BJRHJVYNUMQZ30,Investor Owned,Vertically Integrated,1994,2020,,vert_int
+"NextEra Energy, Inc.",,NEE,US65339F1012,Aroostook Valley Electric Co.,200,,,,Vertically Integrated,1994,1998,,vert_int
+"Berkshire Hathaway, Inc.",5493000C01ZX7D35SD85,BRK-B,US0846707026,MidAmerican Energy Co.,210,12341,NINLOILYRTLIMK26MZ18,Investor Owned,Vertically Integrated,1995,2020,,vert_int
+"Evergy, Inc.",549300PGTHDQY6PSUI61,EVRG,US30034W1062,"Evergy Generating, Inc.",276,22500,J75GNWGEO73W89ZV3S44,Investor Owned,Vertically Integrated,2001,2020,TRUE,vert_int
+Alliant Energy,5493009ML300G373MZ12,LNT,US0188021085,Interstate Power & Light Co.,281,9417,EF9UQIIO4KY2BWOK3P26,Investor Owned,Vertically Integrated,2002,2020,,vert_int
+"Fortis, Inc.",549300MQYQ9Y065XPR71,FTS,CA3495531079,"UNS Electric, Inc.",288,19728,0HHVF3BMNBQCDE68YY36,Investor Owned,Vertically Integrated,2003,2020,,vert_int
+"Hawaiian Electric Industries, Inc.",JJ8FWOCWCV22X7GUPJ23,HE,US4198701009,"Hawaii Electric Light Co., Inc.",300,8287,549300QTGY7VET8OJG03,Investor Owned,Vertically Integrated,2005,2008,,vert_int
+Edison International,549300I7ROF15MAEVP56,EIX,US2810201077,"Mountainview Power Co., LLC",302,,,,Vertically Integrated,2005,2009,,vert_int
+Pinnacle West Capital Corp.,TWSEY0NEDUDCKS27AH81,PNW,US7234841010,Pinnacle West Capital Corp.,304,,TWSEY0NEDUDCKS27AH81,,Vertically Integrated,2006,2007,,vert_int
+Entergy Corp.,4XM3TW50JULSLG8BNC79,ETR,US29364G1031,"Entergy Texas, Inc.",315,55937,LWXX58X12AJXISQ28573,Investor Owned,Vertically Integrated,2008,2020,,vert_int
+Black Hills Corp.,3MGELCRSTNSAMJ962671,BKH,US0921131092,"Cheyenne Light, Fuel & Power Co.",403,3461,549300MNPC1R1JKZ3P03,Investor Owned,Vertically Integrated,2004,2020,,vert_int
+"North Central Power Co., Inc.",,,,"North Central Power Co., Inc.",418,13697,,Investor Owned,Vertically Integrated,2006,2020,,vert_int
+Black Hills Corp.,3MGELCRSTNSAMJ962671,BKH,US0921131092,"Black Hills Colorado Electric, LLC",432,56146,549300DJAHB27GE4M472,Investor Owned,Vertically Integrated,2008,2020,,vert_int
+Entergy Corp.,4XM3TW50JULSLG8BNC79,ETR,US29364G1031,"Entergy Louisiana, LLC",454,11241,0V5453U14HDZO63CGH17,Investor Owned,Vertically Integrated,2015,2020,,vert_int
+Exelon Corp.,3SOUA6IRML7435B56G12,EXC,US30161N1019,Atlantic City Electric Co.,9,963,549300S5TW3VP5V06B73,Investor Owned,Wires Only,1994,2020,,other_wires
+Exelon Corp.,3SOUA6IRML7435B56G12,EXC,US30161N1019,Baltimore Gas & Electric Co.,10,1167,88V8C2WYSOD1SPSSLH72,Investor Owned,Wires Only,1994,2020,,other_wires
+"Avangrid, Inc.",549300OX0Q38NLSKPB49,AGR,US05351W1036,Central Maine Power Co.,23,3266,549300PNSLJN4LMXCB34,Investor Owned,Wires Only,1994,2020,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,AEP Texas Central Co.,24,3278,O5I1W4NHLL5HR1XYY456,Investor Owned,Wires Only,1994,2016,,other_wires
+Duke Energy Corp.,I1BZKREC126H0VB1BL91,DUK,US26441C2044,"Duke Energy Ohio, Inc.",27,3542,L6KC0HABGHNFU1Z6QY21,Investor Owned,Wires Only,1994,2020,,other_wires
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,The Cleveland Electric Illuminating Co.,30,3755,,Investor Owned,Wires Only,1994,2020,,other_wires
+Exelon Corp.,3SOUA6IRML7435B56G12,EXC,US30161N1019,Commonwealth Edison Co.,32,4110,D8YOXB8L2ZDC8P7Q0771,Investor Owned,Wires Only,1994,2020,,other_wires
+Exelon Corp.,3SOUA6IRML7435B56G12,EXC,US30161N1019,"Commonwealth Edison Co. Of Indiana, Inc.",33,,,,Wires Only,1994,2020,,other_wires
+Eversource Energy,SJ7XXD41SQU3ZNWUJ746,ES,US30040W1080,"Connecticut Light & Power Co., The",39,4176,549300O45IUXEDS1VZ32,Investor Owned,Wires Only,1995,2020,,other_wires
+Exelon Corp.,3SOUA6IRML7435B56G12,EXC,US30161N1019,Delmarva Power & Light Co.,43,5027,NJ98T8DDD027ZFXUDB24,Investor Owned,Wires Only,1994,2020,,other_wires
+DQE Holdings LLC,TGC6XBYCUTZ0VPC4SF64,,,Duquesne Light Co.,46,5487,TGC6XBYCUTZ0VPC4SF64,Investor Owned,Wires Only,1994,2020,,other_wires
+Algonquin Power & Utilities Corp.,549300K5VIUTJXQL7X75,AQN,US0158577090,Liberty Utilities (Granite State Electric) Corp.,59,26510,,Investor Owned,Wires Only,1994,2020,,other_wires
+"Centerpoint Energy, Inc.",21TPXMRRHFKOBHDC8J74,CNP,US15189T1079,"Centerpoint Energy Houston Electric, LLC",68,8901,549300S8SEQBOJLKHW63,Investor Owned,Wires Only,1994,2020,,other_wires
+Ameren Corp.,XRZQ5S7HYJFPHJ78L959,AEE,US0236081024,Illinois Power Co.,71,9208,,Investor Owned,Wires Only,1994,2010,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,Kingsport Power Co.,83,10331,,Investor Owned,Wires Only,1994,2020,,other_wires
+"Avangrid, Inc.",549300OX0Q38NLSKPB49,AGR,US05351W1036,"Maine Electric Power Co., Inc.",90,,,,Wires Only,1994,2020,,other_wires
+Verso Corp.,549300GJ7GX8L0NYS887,VRS,,Maine Public Service Co.,91,,549300GJ7GX8L0NYS887,,Wires Only,1994,2013,,other_wires
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,Metropolitan Edison Co.,96,12390,,Investor Owned,Wires Only,1994,2020,,other_wires
+Mt. Carmel Public Utility Co.,,MCPB,US6208741073,Mt. Carmel Public Utility Co,105,13032,,Investor Owned,Wires Only,1994,2020,,other_wires
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,The Narragansett Electric Co.,107,13214,VAI0KZ806W8MCH0BCZ61,Investor Owned,Wires Only,1994,2020,,other_wires
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,New England Electric Transmission Corp.,110,,,,Wires Only,1994,2020,,other_wires
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,"New England Hydro-Trans. Elec. Co., Inc.",111,,,,Wires Only,1994,2020,,other_wires
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,New England Hydro-Transmission Corp.,112,,,,Wires Only,1994,2020,,other_wires
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,Newport Electric Corp.,116,,,,Wires Only,1994,2000,,other_wires
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,Niagara Mohawk Power Corp.,117,13573,3T97Y9RR5EN5Y18QHB56,Investor Owned,Wires Only,1994,2020,,other_wires
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,Ohio Edison Co.,126,13998,,Investor Owned,Wires Only,1994,2020,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,Ohio Power Co.,127,14006,06ZODLC132CY1O2Y7D77,Investor Owned,Wires Only,1994,2020,,other_wires
+"Consolidated Edison, Inc.",54930033SBW53OO8T749,ED,US2091151041,"Orange & Rockland Utilities, Inc",131,14154,26RM8T263FMD21834H79,Investor Owned,Wires Only,1994,2020,,other_wires
+Exelon Corp.,3SOUA6IRML7435B56G12,EXC,US30161N1019,Peco Energy Co.,135,14940,YH65D4JBECK76IFEJ279,Investor Owned,Wires Only,1994,2020,,other_wires
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,Pennsylvania Electric Co.,136,14711,O1PLQWO3TX952VMBJ146,Investor Owned,Wires Only,1994,2020,,other_wires
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,Pennsylvania Power Co.,137,14716,,Investor Owned,Wires Only,1994,2020,,other_wires
+PPL Corp.,9N3UAJSNOUXFKQLF3V18,PPL,US69351T1060,PPL Electric Utilities Corp.,138,14715,549300GCZLSGYEYPIR35,Investor Owned,Wires Only,1994,2020,,other_wires
+Pioneer Power & Light Co.,,,,Pioneer Power & Light Co.,140,15086,,Investor Owned,Wires Only,1996,2020,,other_wires
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,The Potomac Edison Co.,142,15263,,Investor Owned,Wires Only,1994,2020,,other_wires
+Exelon Corp.,3SOUA6IRML7435B56G12,EXC,US30161N1019,Potomac Electric Power Co.,143,15270,549300BXF2DWUNN57U06,Investor Owned,Wires Only,1994,2020,,other_wires
+Eversource Energy,SJ7XXD41SQU3ZNWUJ746,ES,US30040W1080,Public Service Co. Of New Hampshire,146,15472,549300SHPFALUPKK2351,Investor Owned,Wires Only,1994,2020,,other_wires
+"Consolidated Edison, Inc.",54930033SBW53OO8T749,ED,US2091151041,Rockland Electric Co.,152,16213,549300NEXTSZ9YJIQU82,Investor Owned,Wires Only,1994,2020,,other_wires
+Sempra,PBBKGKLRK5S5C0Y4T545,SRE,US8168511090,TXU Electric Co.,173,,,,Wires Only,1994,2001,,other_wires
+"PNM Resources, Inc.",5493003JOBJGLZSDDQ28,PNG,US69349H1077,Texas-New Mexico Power Co.,174,40051,V016JWFUGDNVD05M7E74,Investor Owned,Wires Only,1994,2006,,other_wires
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,Toledo Edison Co.,175,18997,,Investor Owned,Wires Only,1994,2020,,other_wires
+Unitil Corp.,,UTL,US9132591077,Unitil Power Corp.,180,,,,Wires Only,1994,2005,,other_wires
+"Vermont Electric Power Co., Inc.",54930086XT4IMGTLYZ86,,,"Vermont Electric Power Co., Inc.",183,,,,Wires Only,1994,2020,,other_wires
+"Vermont Electric Power Co., Inc.",54930086XT4IMGTLYZ86,,,"Vermont Electric Transmission Co., Inc.",184,,,,Wires Only,1994,2020,,other_wires
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,West Penn Power Co.,188,20387,,Investor Owned,Wires Only,1994,2020,,other_wires
+Eversource Energy,SJ7XXD41SQU3ZNWUJ746,ES,US30040W1080,Western Massachusetts Electric Co.,190,56999,5493003IAYN5YDLS1728,Investor Owned,Wires Only,1994,2017,,other_wires
+"Valley Electric Association, Inc.",549300N8FFURNHL5YM93,,,"Valley Electric Association, Inc.",225,,549300N8FFURNHL5YM93,,Wires Only,1996,2005,,other_wires
+"Freeport-Mcmoran, Inc.",549300IRDTHJQ1PVET45,,,The Morenci Water & Electric Co.,238,,,,Wires Only,1998,2005,,other_wires
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,"American Transmission Systems, Inc.",258,,,,Wires Only,2000,2020,,other_wires
+"SU Investment Partners, LP",,,,"Sharyland Utilities, L.P.",268,17008,,Transmission,Wires Only,2010,2019,,other_wires
+"Fortis, Inc.",549300MQYQ9Y065XPR71,FTS,CA3495531079,Michigan Electric Transmission Co.,273,,,,Wires Only,2001,2001,,other_wires
+WEC Energy Group,549300IGLYTZUK3PVP70,WEC,US92939U1060,American Transmission Co. LLC,275,,,,Wires Only,2001,2020,,other_wires
+"Fortis, Inc.",549300MQYQ9Y065XPR71,FTS,CA3495531079,International Transmission Co.,278,,,,Wires Only,2001,2003,,other_wires
+"Fortis, Inc.",549300MQYQ9Y065XPR71,FTS,CA3495531079,Michigan Electric Transmission Co. LLC,280,,,,Wires Only,2002,2003,,other_wires
+Sempra,,,,Oncor Electric Delivery Co. LLC,282,44372,,Investor Owned,Wires Only,2002,2020,,other_wires
+"Fortis, Inc.",549300MQYQ9Y065XPR71,FTS,CA3495531079,International Transmission Co.,289,,,,Wires Only,2003,2020,,other_wires
+Unitil Corp.,,UTL,US9132591077,"Unitil Energy Systems, Inc.",290,24590,,Investor Owned,Wires Only,2005,2020,,other_wires
+"Fortis, Inc.",549300MQYQ9Y065XPR71,FTS,CA3495531079,"Michigan Electric Transmission Co., LLC",291,,,,Wires Only,2003,2006,,other_wires
+"Cross Sound Cable Co., LLC",,,,"Cross Sound Cable Co., LLC",292,,,,Wires Only,,,,other_wires
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,Gridamerica LLC,293,,,,Wires Only,2004,2006,,other_wires
+Duke Energy Corp.,I1BZKREC126H0VB1BL91,DUK,US26441C2044,"Datc Path 15, LLC",295,,,,Wires Only,2004,2020,,other_wires
+Cleco Partners LP,5493002H80P81B3HXL31,,US18551QAA58,Attala Transmission LLC,301,,,,Wires Only,2006,2017,,other_wires
+"Fortis, Inc.",549300MQYQ9Y065XPR71,FTS,CA3495531079,Michigan Electric Transmission Co. LLC,308,,,,Wires Only,2006,2020,,other_wires
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,Trans-Allegheny Interstate Line Co.,311,,,,Wires Only,2007,2020,,other_wires
+FirstEnergy Corp.,549300SVYJS666PQJH88,FE,US3379321074,"Path Allegheny Transmission Co., LLC",313,,,,Wires Only,2008,2020,,other_wires
+"Path West Virginia Transmission Co., LLC",,,,"Path West Virginia Transmission Co., LLC",314,,,,Wires Only,2008,2020,,other_wires
+"Fortis, Inc.",549300MQYQ9Y065XPR71,FTS,CA3495531079,ITC Midwest LLC,316,,,,Wires Only,2007,2020,,other_wires
+"Startrans IO, LLC",549300X6CK46NKF0S683,,,"Startrans IO, LLC",318,,549300X6CK46NKF0S683,,Wires Only,2008,2020,,other_wires
+"Prairie Wind Transmission, LLC",,,,"Prairie Wind Transmission, LLC",319,,,,Wires Only,2011,2020,,other_wires
+"Avangrid, Inc.",549300OX0Q38NLSKPB49,AGR,US05351W1036,Vermont Transco LLC,320,,,,Wires Only,2006,2020,,other_wires
+"Gridliance Gp, LLC",,,,Gridliance High Plains LLC,322,,,,Wires Only,2016,2020,,other_wires
+National Grid PLC,8R95QZMKZLJX5Q2XR704,NGG,US6362744095,Nantucket Electric Co.,416,13206,,Investor Owned,Wires Only,2004,2020,,other_wires
+Corning Natural Gas Holding Corp.,549300SPFPI3X8V86Z21,CNIG,US2193871074,Pike County Light & Power Co.,422,15045,,Investor Owned,Wires Only,2004,2016,,other_wires
+UGI Corp.,DX6GCWD4Q1JO9CRE5I40,UGI,US9026811052,"UGI Utilities, Inc.",428,19390,7K0APUY878Q0CS7GKP44,Other,Wires Only,2004,2020,,other_wires
+"Fortis, Inc.",549300MQYQ9Y065XPR71,FTS,CA3495531079,"ITC Great Plains, LLC",433,,,,Wires Only,2009,2020,,other_wires
+"NextEra Energy, Inc.",,NEE,US65339F1012,"New Hampshire Transmission, LLC",435,,,,Wires Only,2010,2020,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,"AEP Appalachian Transmission Co., Inc.",436,,,,Wires Only,2010,2020,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,"AEP West Virginia Transmission Co., Inc.",437,,,,Wires Only,2010,2020,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,"AEP Ohio Transmission Co., Inc.",438,,,,Wires Only,2010,2020,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,"AEP Kentucky Transmission Co., Inc.",439,,,,Wires Only,2010,2020,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,"AEP Indiana Michigan Transmission Co., Inc.",440,,,,Wires Only,2010,2020,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,"AEP Southwestern Transmission Co., Inc.",441,,,,Wires Only,2010,2020,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,"AEP Oklahoma Transmission Co., Inc.",442,,,,Wires Only,2010,2020,,other_wires
+Ameren Corp.,XRZQ5S7HYJFPHJ78L959,AEE,US0236081024,Ameren Illinois Co.,443,61576,RC71E2BZ6UOMFPDJSE79,Investor Owned,Wires Only,2010,2020,,other_wires
+Ameren Corp.,XRZQ5S7HYJFPHJ78L959,AEE,US0236081024,Ameren Transmission Co. Of Illinois,444,,,,Wires Only,2010,2020,,other_wires
+"NextEra Energy, Inc.",549300JBUPM1W3GKTK25,NEE,US65339F1012,Trans Bay Cable LLC,446,,549300JBUPM1W3GKTK25,,Wires Only,2010,2020,,other_wires
+Smoky Mountain Transmission LLC,,,,Smoky Mountain Transmission LLC,451,,,,Wires Only,2013,2020,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,"Transource Missouri, LLC",453,,,,Wires Only,2014,2020,,other_wires
+"Fortis, Inc.",549300MQYQ9Y065XPR71,FTS,CA3495531079,ITC Interconnection LLC,455,60744,,Transmission,Wires Only,2016,2020,,other_wires
+"American Electric Power Co., Inc.",1B4S6S7G0TW5EE83BO58,AEP,US0255371017,"Transource West Virginia, LLC",512,,,,Wires Only,2016,2020,,other_wires
+"New York Transco, LLC",,,,"New York Transco, LLC",515,,,,Wires Only,2016,2020,,other_wires
+FirstEnergy Corp.,,FE,US3379321074,"Mid-Atlantic Interstate Transmission, LLC",516,,,,Wires Only,2017,2020,,other_wires
+"Ontario Power Generation, Inc.",,,,Cube Yadkin Transmission LLC,517,,,,Wires Only,2017,2020,,other_wires
+"NextEra Energy, Inc.",,NEE,US65339F1012,Gridliance West LLC,518,,,,Wires Only,2017,2020,,other_wires
+"American Electric Power Co., Inc.",,AEP,US0255371017,"Transource Pennsylvania, LLC",520,,,,Wires Only,2018,2020,,other_wires
+"American Electric Power Co., Inc.",,AEP,US0255371017,"Transource Maryland, LLC",521,,,,Wires Only,2018,2020,,other_wires
+"Pioneer Transmission, LLC",,,,"Pioneer Transmission, LLC",523,,,,Wires Only,2018,2020,,other_wires
+LS Power,549300PQ05TT9JX88148,,,"Cross Texas Transmission, LLC",524,60065,549300PQ05TT9JX88148,Transmission,Wires Only,,,,other_wires
+Sempra,,,,Oncor Electric Delivery Co. Ntu LLC,525,44372,,Investor Owned,Wires Only,,,TRUE,other_wires
+"NextEra Energy, Inc.",,NEE,US65339F1012,Gridliance Heartland LLC,526,,,,Wires Only,2020,2020,,other_wires
+"Berkshire Hathaway, Inc.",,BRK-B,US0846707026,"MidAmerican Central California Transco, LLC",527,,,,Wires Only,2019,2020,,other_wires
+Citizens Energy Corp.,,,,Citizens Sycamore-Penasquitos Transmission LLC,528,,,,Wires Only,2019,2020,,other_wires
+"NextEra Energy, Inc.",,NEE,US65339F1012,"Horizon West Transmission, LLC",530,,,,Wires Only,2020,2020,,other_wires
+"Silver Run Electric, LLC",549300POWGYHKKS76267,,,"Silver Run Electric, LLC",532,,549300POWGYHKKS76267,,Wires Only,2020,2020,,other_wires
+LS Power,,,,"Republic Transmission, LLC",533,,,,Wires Only,2020,2020,,other_wires
+LS Power,549300YDGVV1TUEXTP27,,,"Desertlink, LLC",538,,549300YDGVV1TUEXTP27,,Wires Only,2020,2020,,other_wires
+"NextEra Energy, Inc.",,NEE,US65339F1012,"NextEra Energy Transmission Midatlantic Indiana, Inc.",539,,,,Wires Only,2020,2020,,other_wires
+"Wilderness Line Holdings, LLC",,,,"Wilderness Line Holdings, LLC",540,,,,Wires Only,2020,2020,,other_wires
