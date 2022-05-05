@@ -1,0 +1,251 @@
+state,year,year_type,legal_standard,enforcement_standard,target_type,target_value
+Alabama,,ghg_base_year,None,None,base_target,
+Alabama,,ghg_final_year,None,None,ghg_final_target,0
+Alabama,,ghg_interim_year,None,None,ghg_interim_target,
+Alabama,,rps_final_year,None,None,rps_final_target,0
+Alabama,,rps_interim_year,None,None,rps_interim_target,
+Alaska,,ghg_base_year,None,None,base_target,
+Alaska,,ghg_final_year,None,None,ghg_final_target,0
+Alaska,,ghg_interim_year,None,None,ghg_interim_target,
+Alaska,,rps_final_year,None,None,rps_final_target,0
+Alaska,,rps_interim_year,None,None,rps_interim_target,
+Illinois,2005,ghg_base_year,Executive,Mandatory,base_target,
+Illinois,2025,ghg_final_year,Executive,Mandatory,ghg_final_target,26
+Illinois,,ghg_interim_year,Executive,Mandatory,ghg_interim_target,
+Illinois,2026,rps_final_year,Executive,Mandatory,rps_final_target,25
+Illinois,,rps_interim_year,Executive,Mandatory,rps_interim_target,
+Maryland,2006,ghg_base_year,Statutory ,Mandatory,base_target,
+Maryland,2030,ghg_final_year,Statutory ,Mandatory,ghg_final_target,40
+Maryland,,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,
+Maryland,2030,rps_final_year,Statutory ,Mandatory,rps_final_target,50
+Maryland,,rps_interim_year,Statutory ,Mandatory,rps_interim_target,
+Michigan,2005,ghg_base_year,Executive,Mandatory,base_target,
+Michigan,2025,ghg_final_year,Executive,Mandatory,ghg_final_target,26
+Michigan,2025,ghg_interim_year,Executive,Mandatory,ghg_interim_target,26
+Michigan,2021,rps_final_year,Executive,Mandatory,rps_final_target,15
+Michigan,,rps_interim_year,Executive,Mandatory,rps_interim_target,
+New Jersey,2006,ghg_base_year,Statutory ,Mandatory,base_target,
+New Jersey,2050,ghg_final_year,Statutory ,Mandatory,ghg_final_target,80
+New Jersey,,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,
+New Jersey,2030,rps_final_year,Statutory ,Mandatory,rps_final_target,50
+New Jersey,,rps_interim_year,Statutory ,Mandatory,rps_interim_target,
+Ohio,,ghg_base_year,None,Mandatory,base_target,
+Ohio,,ghg_final_year,None,Mandatory,ghg_final_target,0
+Ohio,,ghg_interim_year,None,Mandatory,ghg_interim_target,
+Ohio,2026,rps_final_year,None,Mandatory,rps_final_target,8.5
+Ohio,,rps_interim_year,None,Mandatory,rps_interim_target,
+Pennsylvania,2005,ghg_base_year,Executive,Mandatory,base_target,
+Pennsylvania,2025,ghg_final_year,Executive,Mandatory,ghg_final_target,26
+Pennsylvania,2025,ghg_interim_year,Executive,Mandatory,ghg_interim_target,26
+Pennsylvania,2021,rps_final_year,Executive,Mandatory,rps_final_target,18
+Pennsylvania,,rps_interim_year,Executive,Mandatory,rps_interim_target,
+Virginia,,ghg_base_year,None,Mandatory,base_target,
+Virginia,2045,ghg_final_year,None,Mandatory,ghg_final_target,100
+Virginia,,ghg_interim_year,None,Mandatory,ghg_interim_target,
+Virginia,2050,rps_final_year,None,Mandatory,rps_final_target,100
+Virginia,,rps_interim_year,None,Mandatory,rps_interim_target,
+West Virginia,,ghg_base_year,None,None,base_target,
+West Virginia,,ghg_final_year,None,None,ghg_final_target,0
+West Virginia,,ghg_interim_year,None,None,ghg_interim_target,
+West Virginia,,rps_final_year,None,None,rps_final_target,0
+West Virginia,,rps_interim_year,None,None,rps_interim_target,
+Arizona,,ghg_base_year,None,Mandatory,base_target,
+Arizona,,ghg_final_year,None,Mandatory,ghg_final_target,0
+Arizona,,ghg_interim_year,None,Mandatory,ghg_interim_target,
+Arizona,2025,rps_final_year,None,Mandatory,rps_final_target,15
+Arizona,,rps_interim_year,None,Mandatory,rps_interim_target,
+Arkansas,,ghg_base_year,None,None,base_target,
+Arkansas,,ghg_final_year,None,None,ghg_final_target,0
+Arkansas,,ghg_interim_year,None,None,ghg_interim_target,
+Arkansas,,rps_final_year,None,None,rps_final_target,0
+Arkansas,,rps_interim_year,None,None,rps_interim_target,
+Tennessee,,ghg_base_year,None,None,base_target,
+Tennessee,,ghg_final_year,None,None,ghg_final_target,0
+Tennessee,,ghg_interim_year,None,None,ghg_interim_target,
+Tennessee,,rps_final_year,None,None,rps_final_target,0
+Tennessee,,rps_interim_year,None,None,rps_interim_target,
+Maine,1990,ghg_base_year,Statutory ,Mandatory,base_target,
+Maine,2030,ghg_final_year,Statutory ,Mandatory,ghg_final_target,45
+Maine,2030,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,45
+Maine,2030,rps_final_year,Statutory ,Mandatory,rps_final_target,80
+Maine,2030,rps_interim_year,Statutory ,Mandatory,rps_interim_target,80
+Montana,,ghg_base_year,Executive,Mandatory,base_target,
+Montana,2050,ghg_final_year,Executive,Mandatory,ghg_final_target,Net Zero
+Montana,,ghg_interim_year,Executive,Mandatory,ghg_interim_target,
+Montana,2015,rps_final_year,Executive,Mandatory,rps_final_target,15
+Montana,,rps_interim_year,Executive,Mandatory,rps_interim_target,
+South Dakota,,ghg_base_year,None,Voluntary,base_target,
+South Dakota,,ghg_final_year,None,Voluntary,ghg_final_target,0
+South Dakota,,ghg_interim_year,None,Voluntary,ghg_interim_target,
+South Dakota,2015,rps_final_year,None,Voluntary,rps_final_target,10
+South Dakota,,rps_interim_year,None,Voluntary,rps_interim_target,
+Wyoming,,ghg_base_year,None,None,base_target,
+Wyoming,,ghg_final_year,None,None,ghg_final_target,0
+Wyoming,,ghg_interim_year,None,None,ghg_interim_target,
+Wyoming,,rps_final_year,None,None,rps_final_target,0
+Wyoming,,rps_interim_year,None,None,rps_interim_target,
+North Carolina,2005,ghg_base_year,Executive,Mandatory,base_target,
+North Carolina,2025,ghg_final_year,Executive,Mandatory,ghg_final_target,40
+North Carolina,,ghg_interim_year,Executive,Mandatory,ghg_interim_target,
+North Carolina,2021,rps_final_year,Executive,Mandatory,rps_final_target,12.5
+North Carolina,,rps_interim_year,Executive,Mandatory,rps_interim_target,
+South Carolina,,ghg_base_year,None,Voluntary,base_target,
+South Carolina,,ghg_final_year,None,Voluntary,ghg_final_target,0
+South Carolina,,ghg_interim_year,None,Voluntary,ghg_interim_target,
+South Carolina,2021,rps_final_year,None,Voluntary,rps_final_target,2
+South Carolina,,rps_interim_year,None,Voluntary,rps_interim_target,
+New York,1990,ghg_base_year,Statutory ,Mandatory,base_target,
+New York,2030,ghg_final_year,Statutory ,Mandatory,ghg_final_target,40
+New York,2030,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,40
+New York,2030,rps_final_year,Statutory ,Mandatory,rps_final_target,70
+New York,2030,rps_interim_year,Statutory ,Mandatory,rps_interim_target,70
+Louisiana,2005,ghg_base_year,Executive,None,base_target,
+Louisiana,2025,ghg_final_year,Executive,None,ghg_final_target,26
+Louisiana,2025,ghg_interim_year,Executive,None,ghg_interim_target,26
+Louisiana,,rps_final_year,Executive,None,rps_final_target,0
+Louisiana,,rps_interim_year,Executive,None,rps_interim_target,
+Connecticut,2001,ghg_base_year,Statutory ,Mandatory,base_target,
+Connecticut,2030,ghg_final_year,Statutory ,Mandatory,ghg_final_target,45
+Connecticut,2030,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,45
+Connecticut,2030,rps_final_year,Statutory ,Mandatory,rps_final_target,44
+Connecticut,,rps_interim_year,Statutory ,Mandatory,rps_interim_target,
+Wisconsin,,ghg_base_year,None,Mandatory,base_target,
+Wisconsin,,ghg_final_year,None,Mandatory,ghg_final_target,0
+Wisconsin,,ghg_interim_year,None,Mandatory,ghg_interim_target,
+Wisconsin,2015,rps_final_year,None,Mandatory,rps_final_target,10
+Wisconsin,,rps_interim_year,None,Mandatory,rps_interim_target,
+Delaware,2008,ghg_base_year,Executive,Mandatory,base_target,
+Delaware,2025,ghg_final_year,Executive,Mandatory,ghg_final_target,26
+Delaware,2025,ghg_interim_year,Executive,Mandatory,ghg_interim_target,26
+Delaware,2025,rps_final_year,Executive,Mandatory,rps_final_target,25.5
+Delaware,2025,rps_interim_year,Executive,Mandatory,rps_interim_target,25.5
+New Mexico,2005,ghg_base_year,Executive,Mandatory,base_target,
+New Mexico,2030,ghg_final_year,Executive,Mandatory,ghg_final_target,45
+New Mexico,,ghg_interim_year,Executive,Mandatory,ghg_interim_target,
+New Mexico,2025,rps_final_year,Executive,Mandatory,rps_final_target,40
+New Mexico,2025,rps_interim_year,Executive,Mandatory,rps_interim_target,40
+Texas,,ghg_base_year,None,Voluntary,base_target,
+Texas,,ghg_final_year,None,Voluntary,ghg_final_target,0
+Texas,,ghg_interim_year,None,Voluntary,ghg_interim_target,
+Texas,2025,rps_final_year,None,Voluntary,rps_final_target,10GW
+Texas,,rps_interim_year,None,Voluntary,rps_interim_target,
+Kansas,,ghg_base_year,None,Voluntary,base_target,
+Kansas,,ghg_final_year,None,Voluntary,ghg_final_target,0
+Kansas,,ghg_interim_year,None,Voluntary,ghg_interim_target,
+Kansas,2020,rps_final_year,None,Voluntary,rps_final_target,20
+Kansas,,rps_interim_year,None,Voluntary,rps_interim_target,
+Missouri,,ghg_base_year,None,Mandatory,base_target,
+Missouri,,ghg_final_year,None,Mandatory,ghg_final_target,0
+Missouri,,ghg_interim_year,None,Mandatory,ghg_interim_target,
+Missouri,2021,rps_final_year,None,Mandatory,rps_final_target,15
+Missouri,,rps_interim_year,None,Mandatory,rps_interim_target,
+Oklahoma,,ghg_base_year,None,Voluntary,base_target,
+Oklahoma,,ghg_final_year,None,Voluntary,ghg_final_target,0
+Oklahoma,,ghg_interim_year,None,Voluntary,ghg_interim_target,
+Oklahoma,2015,rps_final_year,None,Voluntary,rps_final_target,15
+Oklahoma,,rps_interim_year,None,Voluntary,rps_interim_target,
+Massachusetts,1990,ghg_base_year,Statutory ,Mandatory,base_target,
+Massachusetts,2050,ghg_final_year,Statutory ,Mandatory,ghg_final_target,80
+Massachusetts,,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,
+Massachusetts,2030,rps_final_year,Statutory ,Mandatory,rps_final_target,35
+Massachusetts,2030,rps_interim_year,Statutory ,Mandatory,rps_interim_target,35
+Florida,,ghg_base_year,None,None,base_target,
+Florida,,ghg_final_year,None,None,ghg_final_target,0
+Florida,,ghg_interim_year,None,None,ghg_interim_target,
+Florida,,rps_final_year,None,None,rps_final_target,0
+Florida,,rps_interim_year,None,None,rps_interim_target,
+Georgia,,ghg_base_year,None,None,base_target,
+Georgia,,ghg_final_year,None,None,ghg_final_target,0
+Georgia,,ghg_interim_year,None,None,ghg_interim_target,
+Georgia,,rps_final_year,None,None,rps_final_target,0
+Georgia,,rps_interim_year,None,None,rps_interim_target,
+New Hampshire,1990,ghg_base_year,Executive,Mandatory,base_target,
+New Hampshire,2025,ghg_final_year,Executive,Mandatory,ghg_final_target,20
+New Hampshire,2025,ghg_interim_year,Executive,Mandatory,ghg_interim_target,20
+New Hampshire,2025,rps_final_year,Executive,Mandatory,rps_final_target,25.2
+New Hampshire,,rps_interim_year,Executive,Mandatory,rps_interim_target,
+Vermont,2005/1990,ghg_base_year,Statutory ,Mandatory,base_target,
+Vermont,2025,ghg_final_year,Statutory ,Mandatory,ghg_final_target,26
+Vermont,2025,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,26
+Vermont,2032,rps_final_year,Statutory ,Mandatory,rps_final_target,75
+Vermont,,rps_interim_year,Statutory ,Mandatory,rps_interim_target,
+Hawaii,,ghg_base_year,Statutory ,Mandatory,base_target,
+Hawaii,2045,ghg_final_year,Statutory ,Mandatory,ghg_final_target,Net Zero
+Hawaii,,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,
+Hawaii,2030,rps_final_year,Statutory ,Mandatory,rps_final_target,40
+Hawaii,2030,rps_interim_year,Statutory ,Mandatory,rps_interim_target,40
+Idaho,,ghg_base_year,None,None,base_target,
+Idaho,,ghg_final_year,None,None,ghg_final_target,0
+Idaho,,ghg_interim_year,None,None,ghg_interim_target,
+Idaho,,rps_final_year,None,None,rps_final_target,0
+Idaho,,rps_interim_year,None,None,rps_interim_target,
+Oregon,1990,ghg_base_year,Statutory ,Mandatory,base_target,
+Oregon,2050,ghg_final_year,Statutory ,Mandatory,ghg_final_target,75
+Oregon,,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,
+Oregon,2025,rps_final_year,Statutory ,Mandatory,rps_final_target,25
+Oregon,2025,rps_interim_year,Statutory ,Mandatory,rps_interim_target,25
+Indiana,,ghg_base_year,None,Voluntary,base_target,
+Indiana,,ghg_final_year,None,Voluntary,ghg_final_target,0
+Indiana,,ghg_interim_year,None,Voluntary,ghg_interim_target,
+Indiana,2025,rps_final_year,None,Voluntary,rps_final_target,10
+Indiana,,rps_interim_year,None,Voluntary,rps_interim_target,
+Kentucky,,ghg_base_year,None,None,base_target,
+Kentucky,,ghg_final_year,None,None,ghg_final_target,0
+Kentucky,,ghg_interim_year,None,None,ghg_interim_target,
+Kentucky,,rps_final_year,None,None,rps_final_target,0
+Kentucky,,rps_interim_year,None,None,rps_interim_target,
+North Dakota,,ghg_base_year,None,Voluntary,base_target,
+North Dakota,,ghg_final_year,None,Voluntary,ghg_final_target,0
+North Dakota,,ghg_interim_year,None,Voluntary,ghg_interim_target,
+North Dakota,2015,rps_final_year,None,Voluntary,rps_final_target,10
+North Dakota,,rps_interim_year,None,Voluntary,rps_interim_target,
+Minnesota,2005,ghg_base_year,Statutory ,Mandatory,base_target,
+Minnesota,2025,ghg_final_year,Statutory ,Mandatory,ghg_final_target,30
+Minnesota,2025,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,30
+Minnesota,2025,rps_final_year,Statutory ,Mandatory,rps_final_target,26.5
+Minnesota,,rps_interim_year,Statutory ,Mandatory,rps_interim_target,
+Mississippi,,ghg_base_year,None,None,base_target,
+Mississippi,,ghg_final_year,None,None,ghg_final_target,0
+Mississippi,,ghg_interim_year,None,None,ghg_interim_target,
+Mississippi,,rps_final_year,None,None,rps_final_target,0
+Mississippi,,rps_interim_year,None,None,rps_interim_target,
+Rhode Island,1990,ghg_base_year,Statutory ,Mandatory,base_target,
+Rhode Island,2035,ghg_final_year,Statutory ,Mandatory,ghg_final_target,45
+Rhode Island,2035,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,45
+Rhode Island,2035,rps_final_year,Statutory ,Mandatory,rps_final_target,38.5
+Rhode Island,,rps_interim_year,Statutory ,Mandatory,rps_interim_target,
+Nevada,2005,ghg_base_year,Statutory ,Mandatory,base_target,
+Nevada,2025,ghg_final_year,Statutory ,Mandatory,ghg_final_target,28
+Nevada,2025,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,28
+Nevada,2030,rps_final_year,Statutory ,Mandatory,rps_final_target,50
+Nevada,,rps_interim_year,Statutory ,Mandatory,rps_interim_target,
+California,1990,ghg_base_year,Statutory ,Mandatory,base_target,
+California,2030,ghg_final_year,Statutory ,Mandatory,ghg_final_target,40
+California,2030,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,40
+California,2026,rps_final_year,Statutory ,Mandatory,rps_final_target,50
+California,2026,rps_interim_year,Statutory ,Mandatory,rps_interim_target,50
+Utah,,ghg_base_year,None,Voluntary,base_target,
+Utah,,ghg_final_year,None,Voluntary,ghg_final_target,0
+Utah,,ghg_interim_year,None,Voluntary,ghg_interim_target,
+Utah,2025,rps_final_year,None,Voluntary,rps_final_target,20
+Utah,,rps_interim_year,None,Voluntary,rps_interim_target,
+Washington,1990,ghg_base_year,Statutory ,Mandatory,base_target,
+Washington,2030,ghg_final_year,Statutory ,Mandatory,ghg_final_target,45
+Washington,2030,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,45
+Washington,2020,rps_final_year,Statutory ,Mandatory,rps_final_target,15
+Washington,2020,rps_interim_year,Statutory ,Mandatory,rps_interim_target,15
+Washington DC,,ghg_base_year,None,0,base_target,
+Washington DC,2032,ghg_final_year,None,0,ghg_final_target,50
+Washington DC,2032,ghg_interim_year,None,0,ghg_interim_target,50
+Washington DC,2032,rps_final_year,None,0,rps_final_target,50
+Washington DC,,rps_interim_year,None,0,rps_interim_target,
+Colorado,2005,ghg_base_year,Statutory ,Mandatory,base_target,
+Colorado,2025,ghg_final_year,Statutory ,Mandatory,ghg_final_target,26
+Colorado,2025,ghg_interim_year,Statutory ,Mandatory,ghg_interim_target,26
+Colorado,2020,rps_final_year,Statutory ,Mandatory,rps_final_target,30
+Colorado,2020,rps_interim_year,Statutory ,Mandatory,rps_interim_target,30
+Iowa,,ghg_base_year,None,Mandatory,base_target,
+Iowa,,ghg_final_year,None,Mandatory,ghg_final_target,0
+Iowa,,ghg_interim_year,None,Mandatory,ghg_interim_target,
+Iowa,Annual,rps_final_year,None,Mandatory,rps_final_target,105MW
+Iowa,,rps_interim_year,None,Mandatory,rps_interim_target,
