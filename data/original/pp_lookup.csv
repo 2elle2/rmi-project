@@ -1,0 +1,29 @@
+﻿technology_description,new
+Conventional Steam Coal,fossil
+Natural Gas Fired Combustion Turbine,fossil
+Conventional Hydroelectric,hydro
+Natural Gas Fired Combined Cycle,fossil
+Petroleum Liquids,fossil
+Batteries,renewables
+Natural Gas Steam Turbine,fossil
+Landfill Gas,fossil
+Solar Photovoltaic,renewables
+Natural Gas Internal Combustion Engine,fossil
+Onshore Wind Turbine,renewables
+Nuclear,nuclear
+Hydroelectric Pumped Storage,renewables
+Wood/Wood Waste Biomass,renewables
+Other Waste Biomass,renewables
+Municipal Solid Waste,renewables
+All Other,other
+Other Gases,fossil
+Petroleum Coke,fossil
+Other Natural Gas,fossil
+Flywheels,renewables
+Coal Integrated Gasification Combined Cycle,fossil
+Geothermal,renewables
+Offshore Wind Turbine,renewables
+Solar Thermal without Energy Storage,renewables
+Solar Thermal with Energy Storage,renewables
+Natural Gas with Compressed Air Storage,fossil
+Grand Total,
